@@ -6,7 +6,7 @@
 
 ![definicao.png](Bino%CC%82mios%207d7bf/definicao.png)
 
-> $\binom{n}{p} = C^p_n = \frac {n!} {p!(n-p)!}$
+> <img src="https://render.githubusercontent.com/render/math?math=\binom{n}{p} = C^p_n = \frac {n!} {p!(n-p)!}">
 > 
 
 ## Propriedades
