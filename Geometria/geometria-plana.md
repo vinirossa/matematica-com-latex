@@ -68,7 +68,7 @@ Geometria Sagrada
 
 ![angulos-unidades-de-medida9.png](Geometria%20%2044ef8/angulos-unidades-de-medida9.png)
 
-> $180° ≡ π rad ≡ 200 gon$
+> <img src="https://render.githubusercontent.com/render/math?math=180° ≡ π rad ≡ 200 gon">
 > 
 
 ## Complementares
@@ -143,7 +143,7 @@ Geometria Sagrada
 
 ![poligonos-diagonais-obs.png](Geometria%20%2044ef8/poligonos-diagonais-obs.png)
 
-> $d = \frac{n(n - 3)}{2}$
+> <img src="https://render.githubusercontent.com/render/math?math=d = \frac{n(n - 3)}{2}">
 > 
 
 **Exemplos**
@@ -158,8 +158,8 @@ Geometria Sagrada
 
 ![poligonos-soma-dos-angulos2.png](Geometria%20%2044ef8/poligonos-soma-dos-angulos2.png)
 
-> $S_i = 180° . (n - 2)$
-$S_e = 360°$
+> <img src="https://render.githubusercontent.com/render/math?math=S_i = 180° . (n - 2)">
+<img src="https://render.githubusercontent.com/render/math?math=S_e = 360°">
 > 
 
 **Exemplos**
@@ -188,10 +188,10 @@ $S_e = 360°$
 
 ![poligonos-regulares-angulo-interno-e-externo-obs.png](Geometria%20%2044ef8/poligonos-regulares-angulo-interno-e-externo-obs.png)
 
-> $i = \frac{180° . (n - 2)}{n}$
-$e = \frac{360°}{n}$
-$i + e = 180°$
-$n = \frac{360°}{e}$
+> <img src="https://render.githubusercontent.com/render/math?math=i = \frac{180° . (n - 2)}{n}">
+<img src="https://render.githubusercontent.com/render/math?math=e = \frac{360°}{n}">
+<img src="https://render.githubusercontent.com/render/math?math=i + e = 180°">
+<img src="https://render.githubusercontent.com/render/math?math=n = \frac{360°}{e}">
 > 
 
 **Exemplos**
@@ -213,14 +213,14 @@ $n = \frac{360°}{e}$
 
 ![poligonos-regulares-angulo-central.png](Geometria%20%2044ef8/poligonos-regulares-angulo-central.png)
 
-> $a_c = \frac{360°}{n}$
+> <img src="https://render.githubusercontent.com/render/math?math=a_c = \frac{360°}{n}">
 > 
 
 ### Diagonais que passam pelo centro
 
 ![poligonos-regulares-diagonais-centro.png](Geometria%20%2044ef8/poligonos-regulares-diagonais-centro.png)
 
-> $d_c = \frac n 2$
+> <img src="https://render.githubusercontent.com/render/math?math=d_c = \frac n 2">
 > 
 
 **Exemplo**
@@ -233,7 +233,7 @@ $n = \frac{360°}{e}$
 
 ![poligonos-triangulos-props1.png](Geometria%20%2044ef8/poligonos-triangulos-props1.png)
 
-> $S_i = i_1 + i_2 + i_3 = 180°$
+> <img src="https://render.githubusercontent.com/render/math?math=S_i = i_1 + i_2 + i_3 = 180°">
 > 
 
 **Exemplo**
@@ -246,12 +246,12 @@ $n = \frac{360°}{e}$
 
 ---
 
-> $S_e = e_1 + e_2 + e_3 = 360°$
+> <img src="https://render.githubusercontent.com/render/math?math=S_e = e_1 + e_2 + e_3 = 360°">
 > 
 
 ![poligonos-triangulos-props3.png](Geometria%20%2044ef8/poligonos-triangulos-props3.png)
 
-> $e = a + b$
+> <img src="https://render.githubusercontent.com/render/math?math=e = a + b">
 > 
 
 **Exemplos**
@@ -272,9 +272,9 @@ $n = \frac{360°}{e}$
 
 ![poligonos-triangulos-props5.png](Geometria%20%2044ef8/poligonos-triangulos-props5.png)
 
-> $a + b > c$
-$b + c > a$
-$a + c > b$
+> <img src="https://render.githubusercontent.com/render/math?math=a + b > c">
+<img src="https://render.githubusercontent.com/render/math?math=b + c > a">
+<img src="https://render.githubusercontent.com/render/math?math=a + c > b">
 > 
 
 **Exemplos**
@@ -295,17 +295,17 @@ $a + c > b$
 
 ![poligonos-triangulo-classificacao2.png](Geometria%20%2044ef8/poligonos-triangulo-classificacao2.png)
 
-> $a^2 = b^2 + c^2$  **(Teorema de Pitágoras)**
+> <img src="https://render.githubusercontent.com/render/math?math=a^2 = b^2 + c^2">  **(Teorema de Pitágoras)**
 > 
 
 ![poligonos-triangulo-classificacao3.png](Geometria%20%2044ef8/poligonos-triangulo-classificacao3.png)
 
-> $a^2 < b^2 + c^2$
+> <img src="https://render.githubusercontent.com/render/math?math=a^2 < b^2 + c^2">
 > 
 
 ![poligonos-triangulo-classificacao4.png](Geometria%20%2044ef8/poligonos-triangulo-classificacao4.png)
 
-> $a^2 > b^2 + c^2$
+> <img src="https://render.githubusercontent.com/render/math?math=a^2 > b^2 + c^2">
 > 
 
 **Exemplos**
@@ -336,7 +336,7 @@ $a + c > b$
 
 ![poligonos-pontos-notaveis2.2.png](Geometria%20%2044ef8/poligonos-pontos-notaveis2.2.png)
 
-> $\frac c x = \frac b y$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac c x = \frac b y">
 > 
 
 **Exemplo**
@@ -361,7 +361,7 @@ $a + c > b$
 
 ![poligonos-triangulo-areas1.png](Geometria%20%2044ef8/poligonos-triangulo-areas1.png)
 
-> $A = \frac{b.h}{2}$
+> <img src="https://render.githubusercontent.com/render/math?math=A = \frac{b.h}{2}">
 > 
 
 **Exemplos**
@@ -372,7 +372,7 @@ $a + c > b$
 
 ![poligonos-triangulo-areas2.png](Geometria%20%2044ef8/poligonos-triangulo-areas2.png)
 
-> $A = \frac{a.c.senα}{2}$
+> <img src="https://render.githubusercontent.com/render/math?math=A = \frac{a.c.senα}{2}">
 > 
 
 **Exemplos**
@@ -383,8 +383,8 @@ $a + c > b$
 
 ![poligonos-triangulo-areas3.png](Geometria%20%2044ef8/poligonos-triangulo-areas3.png)
 
-> $p = \frac{a + b + c}{2}$
-$A = \sqrt{p.(p-a).(p-b).(p-c)}$
+> <img src="https://render.githubusercontent.com/render/math?math=p = \frac{a + b + c}{2}">
+<img src="https://render.githubusercontent.com/render/math?math=A = \sqrt{p.(p-a).(p-b).(p-c)}">
 > 
 
 **Exemplos**
@@ -395,7 +395,7 @@ $A = \sqrt{p.(p-a).(p-b).(p-c)}$
 
 ![poligonos-triangulo-areas4.png](Geometria%20%2044ef8/poligonos-triangulo-areas4.png)
 
-> $A = p.r$
+> <img src="https://render.githubusercontent.com/render/math?math=A = p.r">
 > 
 
 **Exemplos**
@@ -406,7 +406,7 @@ $A = \sqrt{p.(p-a).(p-b).(p-c)}$
 
 ![poligonos-triangulo-areas5.png](Geometria%20%2044ef8/poligonos-triangulo-areas5.png)
 
-> $A = \frac{a.b.c}{4R}$
+> <img src="https://render.githubusercontent.com/render/math?math=A = \frac{a.b.c}{4R}">
 > 
 
 **Exemplos**
@@ -417,7 +417,7 @@ $A = \sqrt{p.(p-a).(p-b).(p-c)}$
 
 ![poligonos-triangulos-semelhanca1.png](Geometria%20%2044ef8/poligonos-triangulos-semelhanca1.png)
 
-> $\frac a x = \frac b y = \frac c z = k$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac a x = \frac b y = \frac c z = k">
 > 
 
 > **Procure sempre ter a medida no triângulo maior no numerador para obter a razão normal e não a invertida.**
@@ -460,15 +460,15 @@ $A = \sqrt{p.(p-a).(p-b).(p-c)}$
 
 ![poligonos-triangulo-retangulo3.2.png](Geometria%20%2044ef8/poligonos-triangulo-retangulo3.2.png)
 
-> $a.h = b.c$
-$h^2 = m.n$
-$c^2 = m.a$
-$b^2 = n.a$
+> <img src="https://render.githubusercontent.com/render/math?math=a.h = b.c">
+<img src="https://render.githubusercontent.com/render/math?math=h^2 = m.n">
+<img src="https://render.githubusercontent.com/render/math?math=c^2 = m.a">
+<img src="https://render.githubusercontent.com/render/math?math=b^2 = n.a">
 > 
 
 ![poligonos-triangulo-retangulo4.png](Geometria%20%2044ef8/poligonos-triangulo-retangulo4.png)
 
-> $a^2 = b^2 + c^2$
+> <img src="https://render.githubusercontent.com/render/math?math=a^2 = b^2 + c^2">
 > 
 
 **Relações entre ângulos e lados**
@@ -499,20 +499,20 @@ $b^2 = n.a$
 
 ![poligonos-triangulo-equilatero1.png](Geometria%20%2044ef8/poligonos-triangulo-equilatero1.png)
 
-> $h_Δ = \frac{l\sqrt3}{2}$
-$A_Δ = \frac{l^2\sqrt3}{4}$
+> <img src="https://render.githubusercontent.com/render/math?math=h_Δ = \frac{l\sqrt3}{2}">
+<img src="https://render.githubusercontent.com/render/math?math=A_Δ = \frac{l^2\sqrt3}{4}">
 > 
 
 ![poligonos-triangulo-equilatero2.png](Geometria%20%2044ef8/poligonos-triangulo-equilatero2.png)
 
-> $r = \frac{h_Δ}{3}$
-$R = \frac{2h_Δ}{3}$
-$R = 2r$
+> <img src="https://render.githubusercontent.com/render/math?math=r = \frac{h_Δ}{3}">
+<img src="https://render.githubusercontent.com/render/math?math=R = \frac{2h_Δ}{3}">
+<img src="https://render.githubusercontent.com/render/math?math=R = 2r">
 > 
 
-> $h_Δ = 3r$
-$h_Δ = \frac{3R}{2}$
-$h_Δ = R + r$
+> <img src="https://render.githubusercontent.com/render/math?math=h_Δ = 3r">
+<img src="https://render.githubusercontent.com/render/math?math=h_Δ = \frac{3R}{2}">
+<img src="https://render.githubusercontent.com/render/math?math=h_Δ = R + r">
 > 
 
 ---
@@ -530,7 +530,7 @@ $h_Δ = R + r$
 
 ## Quadriláteros
 
-> **A soma dos ângulos internos de qualquer quadrilátero é sempre $360°$.**
+> **A soma dos ângulos internos de qualquer quadrilátero é sempre <img src="https://render.githubusercontent.com/render/math?math=360°">.**
 > 
 
 ### Paralelogramo
@@ -549,7 +549,7 @@ $h_Δ = R + r$
 
 ![poligonos-quadrilateros-paralelogramo2.png](Geometria%20%2044ef8/poligonos-quadrilateros-paralelogramo2.png)
 
-> $A = b.h$
+> <img src="https://render.githubusercontent.com/render/math?math=A = b.h">
 > 
 
 ---
@@ -566,8 +566,8 @@ $h_Δ = R + r$
 
 ![poligonos-quadrilateros-retangulo2.png](Geometria%20%2044ef8/poligonos-quadrilateros-retangulo2.png)
 
-> $A = a.b$
-$d^2 = a^2 + b^2$
+> <img src="https://render.githubusercontent.com/render/math?math=A = a.b">
+<img src="https://render.githubusercontent.com/render/math?math=d^2 = a^2 + b^2">
 > 
 
 ---
@@ -586,10 +586,10 @@ $d^2 = a^2 + b^2$
 
 ![poligonos-quadrilateros-losango2.png](Geometria%20%2044ef8/poligonos-quadrilateros-losango2.png)
 
-> $A = \frac{D.d}{2}$
+> <img src="https://render.githubusercontent.com/render/math?math=A = \frac{D.d}{2}">
 > 
 
-> **Sendo $α$ os ângulos agudos de um losango e $β$, os ângulos obtusos, quando $β = 2α$, $d = l$ e $A = \frac{l^2\sqrt3}{2}$.**
+> **Sendo <img src="https://render.githubusercontent.com/render/math?math=α"> os ângulos agudos de um losango e <img src="https://render.githubusercontent.com/render/math?math=β">, os ângulos obtusos, quando <img src="https://render.githubusercontent.com/render/math?math=β = 2α">, <img src="https://render.githubusercontent.com/render/math?math=d = l"> e <img src="https://render.githubusercontent.com/render/math?math=A = \frac{l^2\sqrt3}{2}">.**
 > 
 
 ---
@@ -608,14 +608,14 @@ $d^2 = a^2 + b^2$
 
 ![poligonos-quadrilateros-quadrado2.png](Geometria%20%2044ef8/poligonos-quadrilateros-quadrado2.png)
 
-> $A = l^2 = \frac {d^2} 2$
-$d = l\sqrt2$
+> <img src="https://render.githubusercontent.com/render/math?math=A = l^2 = \frac {d^2} 2">
+<img src="https://render.githubusercontent.com/render/math?math=d = l\sqrt2">
 > 
 
 ![poligonos-quadrilateros-quadrado3.png](Geometria%20%2044ef8/poligonos-quadrilateros-quadrado3.png)
 
-> $r = \frac l 2$
-$R = \frac d 2$
+> <img src="https://render.githubusercontent.com/render/math?math=r = \frac l 2">
+<img src="https://render.githubusercontent.com/render/math?math=R = \frac d 2">
 > 
 
 ---
@@ -638,12 +638,12 @@ $R = \frac d 2$
 
 ![poligonos-quadrilateros-trapezio4.png](Geometria%20%2044ef8/poligonos-quadrilateros-trapezio4.png)
 
-> $BM = \frac{B + b}{2}$
+> <img src="https://render.githubusercontent.com/render/math?math=BM = \frac{B + b}{2}">
 > 
 
 ![poligonos-quadrilateros-trapezio5.png](Geometria%20%2044ef8/poligonos-quadrilateros-trapezio5.png)
 
-> $A = \frac{(B + b).h}{2} = BM.h$
+> <img src="https://render.githubusercontent.com/render/math?math=A = \frac{(B + b).h}{2} = BM.h">
 > 
 
 ---
@@ -668,7 +668,7 @@ $R = \frac d 2$
 
 ![poligonos-hexagono-regular1.png](Geometria%20%2044ef8/poligonos-hexagono-regular1.png)
 
-> $A = 6.\frac{l^2\sqrt3}{4}$
+> <img src="https://render.githubusercontent.com/render/math?math=A = 6.\frac{l^2\sqrt3}{4}">
 > 
 
 > **Cada um dos seis ângulos de um hexágono regular mede 120°, ou seja, a soma dos seus ângulos internos é 720°.**
@@ -676,8 +676,8 @@ $R = \frac d 2$
 
 ![poligonos-hexagono-regular2.png](Geometria%20%2044ef8/poligonos-hexagono-regular2.png)
 
-> $r = h_Δ = \frac{l\sqrt3}{2}$
-$R = l$
+> <img src="https://render.githubusercontent.com/render/math?math=r = h_Δ = \frac{l\sqrt3}{2}">
+<img src="https://render.githubusercontent.com/render/math?math=R = l">
 > 
 
 ---
@@ -708,11 +708,11 @@ $R = l$
 
 ![circunferencia-posicoes-relativas5.png](Geometria%20%2044ef8/circunferencia-posicoes-relativas5.png)
 
-> $**d < r_1 - r_2$ (Internas)
-$d = r_1 - r_2$ (Tangentes internas)
-$r_1 - r_2 < d < r_1 + r_2$ (Secantes)
-$d = r_1 + r_2$ (Tangentes externas)
-$d > r_1 + r_2$ (Externas)**
+> <img src="https://render.githubusercontent.com/render/math?math=**d < r_1 - r_2"> (Internas)
+<img src="https://render.githubusercontent.com/render/math?math=d = r_1 - r_2"> (Tangentes internas)
+<img src="https://render.githubusercontent.com/render/math?math=r_1 - r_2 < d < r_1 + r_2"> (Secantes)
+<img src="https://render.githubusercontent.com/render/math?math=d = r_1 + r_2"> (Tangentes externas)
+<img src="https://render.githubusercontent.com/render/math?math=d > r_1 + r_2"> (Externas)**
 > 
 
 ---
@@ -743,7 +743,7 @@ $d > r_1 + r_2$ (Externas)**
 
 ![circunferencia-relacoes-metricas3.png](Geometria%20%2044ef8/circunferencia-relacoes-metricas3.png)
 
-> $\overline{PA} = \overline{PB}$
+> <img src="https://render.githubusercontent.com/render/math?math=\overline{PA} = \overline{PB}">
 > 
 
 **Exemplo**
@@ -754,7 +754,7 @@ $d > r_1 + r_2$ (Externas)**
 
 ![circunferencia-relacoes-metricas4.png](Geometria%20%2044ef8/circunferencia-relacoes-metricas4.png)
 
-> $a + b = c + d$
+> <img src="https://render.githubusercontent.com/render/math?math=a + b = c + d">
 > 
 
 > **Essa propriedade também é uma condição para que uma circunferência possa ser inscrita em um quadrilátero.**
@@ -768,7 +768,7 @@ $d > r_1 + r_2$ (Externas)**
 
 ![circunferencia-potencia-de-ponto1.png](Geometria%20%2044ef8/circunferencia-potencia-de-ponto1.png)
 
-> $a .b = c.d$
+> <img src="https://render.githubusercontent.com/render/math?math=a .b = c.d">
 > 
 
 **Exemplo**
@@ -779,7 +779,7 @@ $d > r_1 + r_2$ (Externas)**
 
 ![circunferencia-potencia-de-ponto2.png](Geometria%20%2044ef8/circunferencia-potencia-de-ponto2.png)
 
-> $a(a + b) = c(c + d)$
+> <img src="https://render.githubusercontent.com/render/math?math=a(a + b) = c(c + d)">
 > 
 
 **Exemplo**
@@ -790,7 +790,7 @@ $d > r_1 + r_2$ (Externas)**
 
 ![circunferencia-potencia-de-ponto3.png](Geometria%20%2044ef8/circunferencia-potencia-de-ponto3.png)
 
-> $a^2 = b(b + c)$
+> <img src="https://render.githubusercontent.com/render/math?math=a^2 = b(b + c)">
 > 
 
 **Exemplo**
@@ -801,12 +801,12 @@ $d > r_1 + r_2$ (Externas)**
 
 ![circunferencia-angulos-na-circunferencia1.png](Geometria%20%2044ef8/circunferencia-angulos-na-circunferencia1.png)
 
-> $α = A \hat{O} B$
+> <img src="https://render.githubusercontent.com/render/math?math=α = A \hat{O} B">
 > 
 
 ![circunferencia-angulos-na-circunferencia2.png](Geometria%20%2044ef8/circunferencia-angulos-na-circunferencia2.png)
 
-> $β = \frac α 2$
+> <img src="https://render.githubusercontent.com/render/math?math=β = \frac α 2">
 > 
 
 **Exemplo**
@@ -825,7 +825,7 @@ $d > r_1 + r_2$ (Externas)**
 
 ![circunferencia-angulos-na-circunferencia4.png](Geometria%20%2044ef8/circunferencia-angulos-na-circunferencia4.png)
 
-> $\hat{A} + \hat{B} = \hat{C} + \hat{D}$
+> <img src="https://render.githubusercontent.com/render/math?math=\hat{A} + \hat{B} = \hat{C} + \hat{D}">
 > 
 
 > **Essa propriedade também é uma condição para que uma circunferência possa ser circunscrita em um quadrilátero.**
@@ -839,7 +839,7 @@ $d > r_1 + r_2$ (Externas)**
 
 ![circunferencia-angulos-na-circunferencia5.png](Geometria%20%2044ef8/circunferencia-angulos-na-circunferencia5.png)
 
-> $Θ = \frac α 2$
+> <img src="https://render.githubusercontent.com/render/math?math=Θ = \frac α 2">
 > 
 
 **Exemplo**
@@ -858,7 +858,7 @@ $d > r_1 + r_2$ (Externas)**
 
 ![circunferencia-angulos-na-circunferencia7.png](Geometria%20%2044ef8/circunferencia-angulos-na-circunferencia7.png)
 
-> $x = \frac{a + b} 2$
+> <img src="https://render.githubusercontent.com/render/math?math=x = \frac{a + b} 2">
 > 
 
 **Exemplo**
@@ -869,7 +869,7 @@ $d > r_1 + r_2$ (Externas)**
 
 ![circunferencia-angulos-na-circunferencia8.png](Geometria%20%2044ef8/circunferencia-angulos-na-circunferencia8.png)
 
-> $x = \frac{a - b} 2$
+> <img src="https://render.githubusercontent.com/render/math?math=x = \frac{a - b} 2">
 > 
 
 **Exemplo**
@@ -883,9 +883,9 @@ $d > r_1 + r_2$ (Externas)**
 > **A constante π é a razão entre o comprimento e o diâmetro (dobro do raio) da circunferência. A partir dessa conclusão, é possível deduzir diversas fórmulas, sendo uma delas que o comprimento de um círculo é igual ao seu diâmetro multiplicado por π.**
 > 
 
-> $π = \frac C {2r}$
-$C = 2πr$ (dois franceses “pierre”)
-$2r = \frac C π$
+> <img src="https://render.githubusercontent.com/render/math?math=π = \frac C {2r}">
+<img src="https://render.githubusercontent.com/render/math?math=C = 2πr"> (dois franceses “pierre”)
+<img src="https://render.githubusercontent.com/render/math?math=2r = \frac C π">
 > 
 
 ![circunferencia-comprimento2.png](Geometria%20%2044ef8/circunferencia-comprimento2.png)
@@ -894,8 +894,8 @@ $2r = \frac C π$
 
 ![circunferencia-comprimento4.png](Geometria%20%2044ef8/circunferencia-comprimento4.png)
 
-> $l = \frac {πrα} {180°}$
-$l = αR$ **(Lindo Alfa Romeu)**
+> <img src="https://render.githubusercontent.com/render/math?math=l = \frac {πrα} {180°}">
+<img src="https://render.githubusercontent.com/render/math?math=l = αR"> **(Lindo Alfa Romeu)**
 > 
 
 ---
@@ -912,7 +912,7 @@ $l = αR$ **(Lindo Alfa Romeu)**
 
 ![circunferencia-area-do-circulo1.png](Geometria%20%2044ef8/circunferencia-area-do-circulo1.png)
 
-> $A = πr^2$
+> <img src="https://render.githubusercontent.com/render/math?math=A = πr^2">
 > 
 
 ![circunferencia-area-do-circulo-e-setor-circular2.png](Geometria%20%2044ef8/circunferencia-area-do-circulo-e-setor-circular2.png)
@@ -930,7 +930,7 @@ $l = αR$ **(Lindo Alfa Romeu)**
 
 ![circunferencia-area-do-setor-circular1.png.png](Geometria%20%2044ef8/circunferencia-area-do-setor-circular1.png.png)
 
-> $A_{setor} = \frac {rl} 2$
+> <img src="https://render.githubusercontent.com/render/math?math=A_{setor} = \frac {rl} 2">
 > 
 
 > **Um macete para decorar essa fórmula é:
@@ -939,8 +939,8 @@ $l = αR$ **(Lindo Alfa Romeu)**
 
 ![circunferencia-area-do-circulo-e-setor-circular4.png](Geometria%20%2044ef8/circunferencia-area-do-circulo-e-setor-circular4.png)
 
-> $A_{setor} = \frac {r^2απ} {360°}$
-$A_{setor} = \frac {r^2α} 2$
+> <img src="https://render.githubusercontent.com/render/math?math=A_{setor} = \frac {r^2απ} {360°}">
+<img src="https://render.githubusercontent.com/render/math?math=A_{setor} = \frac {r^2α} 2">
 > 
 
 > **Um macete para decorar essa fórmula é:
@@ -959,7 +959,7 @@ $A_{setor} = \frac {r^2α} 2$
 
 ![circunferencia-area-do-segmento1.png](Geometria%20%2044ef8/circunferencia-area-do-segmento1.png)
 
-> $A_{seg} = A_{setor} - A_Δ$
+> <img src="https://render.githubusercontent.com/render/math?math=A_{seg} = A_{setor} - A_Δ">
 > 
 
 ---
@@ -974,7 +974,7 @@ $A_{setor} = \frac {r^2α} 2$
 
 ![circunferencia-area-da-coroa.png](Geometria%20%2044ef8/circunferencia-area-da-coroa.png)
 
-> $A_{coroa} = πR^2 - πr^2$
+> <img src="https://render.githubusercontent.com/render/math?math=A_{coroa} = πR^2 - πr^2">
 > 
 
 ---
@@ -987,7 +987,7 @@ $A_{setor} = \frac {r^2α} 2$
 
 ![poligonos-areas-semelhantes.png](Geometria%20%2044ef8/poligonos-areas-semelhantes.png)
 
-> $\frac {A_1} {A_2} = k^2$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac {A_1} {A_2} = k^2">
 > 
 
 > **Procure sempre ter a medida do polígono maior no numerador para obter a razão normal e não a invertida.**

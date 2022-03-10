@@ -50,7 +50,7 @@
 
 ![limite-de-funcao-indefinida.png](Ca%CC%81lculo%20I%20013bf/limite-de-funcao-indefinida.png)
 
-> **Para todos os casos acima,** $\lim\limits_{x \to a} f(x) = L$
+> **Para todos os casos acima,** <img src="https://render.githubusercontent.com/render/math?math=\lim\limits_{x \to a} f(x) = L">
 > 
 
 > **Quando o limite de função tendendo para esquerda é igual ao tendendo para direita, dizemos que o limite existe. Caso contrário, que não existe.**
@@ -68,7 +68,7 @@
 
 ![notacao.png](Ca%CC%81lculo%20I%20013bf/notacao.png)
 
-> $\lim\limits_{x \to c} f(x) = L$
+> <img src="https://render.githubusercontent.com/render/math?math=\lim\limits_{x \to c} f(x) = L">
 > 
 
 ## Valor absoluto (módulo)
@@ -83,7 +83,7 @@
 
 ![definicao.png](Ca%CC%81lculo%20I%20013bf/definicao.png)
 
-> $\lim\limits_{x \to a} f(x) = L ⇒ ∀\space ε > 0,\space ∃\space δ > 0 : |f(x) - L| < ε\space ∀\space 0 < |x - a| < δ$
+> <img src="https://render.githubusercontent.com/render/math?math=\lim\limits_{x \to a} f(x) = L ⇒ ∀\space ε > 0,\space ∃\space δ > 0 : |f(x) - L| < ε\space ∀\space 0 < |x - a| < δ">
 > 
 
 ![controlando-uma-funcao2.png](Ca%CC%81lculo%20I%20013bf/controlando-uma-funcao2.png)
@@ -143,7 +143,7 @@ Soma ou diferença
 
 ![teorema.png](Ca%CC%81lculo%20I%20013bf/teorema.png)
 
-> $\lim\limits_{x \to c} g(x) = \lim\limits_{x \to c} h(x) = L ∴ \lim\limits_{x \to c} f(x) = L$
+> <img src="https://render.githubusercontent.com/render/math?math=\lim\limits_{x \to c} g(x) = \lim\limits_{x \to c} h(x) = L ∴ \lim\limits_{x \to c} f(x) = L">
 > 
 
 ---
@@ -160,7 +160,7 @@ Soma ou diferença
 
 ![expressoes-indeterminadas.png](Ca%CC%81lculo%20I%20013bf/expressoes-indeterminadas.png)
 
-> $0⁰$, $∞⁰$, $\frac n  0$, $0.∞$, $∞ - ∞$, $\frac ∞  ∞$, $1^∞$
+> <img src="https://render.githubusercontent.com/render/math?math=0⁰">, <img src="https://render.githubusercontent.com/render/math?math=∞⁰">, <img src="https://render.githubusercontent.com/render/math?math=\frac n  0">, <img src="https://render.githubusercontent.com/render/math?math=0.∞">, <img src="https://render.githubusercontent.com/render/math?math=∞ - ∞">, <img src="https://render.githubusercontent.com/render/math?math=\frac ∞  ∞">, <img src="https://render.githubusercontent.com/render/math?math=1^∞">
 > 
 
 ---
@@ -205,14 +205,14 @@ Soma ou diferença
 
 ![limite-a-direita.png](Ca%CC%81lculo%20I%20013bf/limite-a-direita.png)
 
-> $\lim\limits_{x \to a^+} f(x) = L$
+> <img src="https://render.githubusercontent.com/render/math?math=\lim\limits_{x \to a^+} f(x) = L">
 > 
 
 ### Limite à esquerda
 
 ![limite-a-esquerda.png](Ca%CC%81lculo%20I%20013bf/limite-a-esquerda.png)
 
-> $\lim\limits_{x \to a^-} f(x) = L$
+> <img src="https://render.githubusercontent.com/render/math?math=\lim\limits_{x \to a^-} f(x) = L">
 > 
 
 ---
@@ -229,7 +229,7 @@ Soma ou diferença
 
 ![teorema-do-limite-bilateral.png](Ca%CC%81lculo%20I%20013bf/teorema-do-limite-bilateral.png)
 
-> $\lim\limits_{x \to a} f(x) = L ⇔  \lim\limits_{x \to a^+} f(x) = \lim\limits_{x \to a^-} f(x) = L$
+> <img src="https://render.githubusercontent.com/render/math?math=\lim\limits_{x \to a} f(x) = L ⇔  \lim\limits_{x \to a^+} f(x) = \lim\limits_{x \to a^-} f(x) = L">
 > 
 
 > **Quando o limite de função tendendo para esquerda é igual ao tendendo para direita, dizemos que o limite existe. Caso contrário, que não existe.**

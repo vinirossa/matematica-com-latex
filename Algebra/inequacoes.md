@@ -21,7 +21,7 @@
 
 ![resolucao-ex4.png](Inequac%CC%A7o%CC%83%20463dd/resolucao-ex4.png)
 
-> **Em inequações, jamais passe valores negativos para o outro lado e sim multiplique a inequação por $-1$.**
+> **Em inequações, jamais passe valores negativos para o outro lado e sim multiplique a inequação por <img src="https://render.githubusercontent.com/render/math?math=-1">.**
 > 
 
 ## Inequações simultâneas
@@ -34,7 +34,7 @@
 
 ![inequacoes-simultaneas4.png](Inequac%CC%A7o%CC%83%20463dd/inequacoes-simultaneas4.png)
 
-> **Quando houver uma inequação simultânea com mais de um sinal, caso não haja incógnita nas extremidades, é possível isolar o $x$ e obter o conjunto solução diretamente.**
+> **Quando houver uma inequação simultânea com mais de um sinal, caso não haja incógnita nas extremidades, é possível isolar o <img src="https://render.githubusercontent.com/render/math?math=x"> e obter o conjunto solução diretamente.**
 > 
 
 ![inequacoes-simultaneas5.png](Inequac%CC%A7o%CC%83%20463dd/inequacoes-simultaneas5.png)
@@ -231,7 +231,7 @@
 
 # Inequações trigonométricas
 
-> **Para resolver inequações trigonométricas, o ideal é antes resolver a igualdade para então projetar a inequação no ciclo trigonométrico e determinar o intervalo de $x$.**
+> **Para resolver inequações trigonométricas, o ideal é antes resolver a igualdade para então projetar a inequação no ciclo trigonométrico e determinar o intervalo de <img src="https://render.githubusercontent.com/render/math?math=x">.**
 > 
 
 ---

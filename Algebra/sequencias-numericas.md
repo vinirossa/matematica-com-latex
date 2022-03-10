@@ -20,18 +20,18 @@
 
 ![pa-termo-geral2.png](Seque%CC%82ncia%207988f/pa-termo-geral2.png)
 
-> $aₙ = a_1 + (n - 1)r = (a_1 - r) + rn$
+> <img src="https://render.githubusercontent.com/render/math?math=aₙ = a_1 + (n - 1)r = (a_1 - r) + rn">
 > 
 > 
-> $a_1 = aₙ  - (n - 1)r$
-> $r = \frac{aₙ - a_1}{(n - 1)}$
+> <img src="https://render.githubusercontent.com/render/math?math=a_1 = aₙ  - (n - 1)r">
+> <img src="https://render.githubusercontent.com/render/math?math=r = \frac{aₙ - a_1}{(n - 1)}">
 > 
 
 ![pa-termo-geral3.png](Seque%CC%82ncia%207988f/pa-termo-geral3.png)
 
-$aₙ = a_k + (n - k)r$
+<img src="https://render.githubusercontent.com/render/math?math=aₙ = a_k + (n - k)r">
 
-$r = \frac{aₙ - a_k}{(n - k)}$
+<img src="https://render.githubusercontent.com/render/math?math=r = \frac{aₙ - a_k}{(n - k)}">
 
 ![pa-termo-geral-ex.png](Seque%CC%82ncia%207988f/pa-termo-geral-ex.png)
 
@@ -43,7 +43,7 @@ $r = \frac{aₙ - a_k}{(n - k)}$
 
 ![pa-props2.png](Seque%CC%82ncia%207988f/pa-props2.png)
 
-> $a_n = \frac{a_{n-1} + a_{n+1}}{2}$
+> <img src="https://render.githubusercontent.com/render/math?math=a_n = \frac{a_{n-1} + a_{n+1}}{2}">
 > 
 
 ### Exemplos
@@ -98,7 +98,7 @@ $r = \frac{aₙ - a_k}{(n - k)}$
 
 ![pa-soma-dos-termos.png](Seque%CC%82ncia%207988f/pa-soma-dos-termos.png)
 
-> $S_n = \frac{(a_1 + a_n) . n}{2}$
+> <img src="https://render.githubusercontent.com/render/math?math=S_n = \frac{(a_1 + a_n) . n}{2}">
 > 
 
 ### Exemplos
@@ -146,11 +146,11 @@ $r = \frac{aₙ - a_k}{(n - k)}$
 <aside>
 🗒️ **Resumo de** **PA**
 
-**Termo Geral:** $a_k = aₙ  + (n - k).r ⇒ r = \frac{aₙ - a_k}{(n - k)}$ (usa $a_n$, $a_k$ e $r$)
-**Média Aritmética de Adjacentes:** $a_n = \frac{a_{n-1} + a_{n+1}}{2}$ (usa somente $a_n$)
+**Termo Geral:** <img src="https://render.githubusercontent.com/render/math?math=a_k = aₙ  + (n - k).r ⇒ r = \frac{aₙ - a_k}{(n - k)}"> (usa <img src="https://render.githubusercontent.com/render/math?math=a_n">, <img src="https://render.githubusercontent.com/render/math?math=a_k"> e <img src="https://render.githubusercontent.com/render/math?math=r">)
+**Média Aritmética de Adjacentes:** <img src="https://render.githubusercontent.com/render/math?math=a_n = \frac{a_{n-1} + a_{n+1}}{2}"> (usa somente <img src="https://render.githubusercontent.com/render/math?math=a_n">)
 **Soma de Termos Equidistantes:** 
-**Notações Especiais:** (usam $x$ e $q$)
-**Soma de Termos: $S_n = \frac{(a_1 + a_n) . n}{2}$** (usa $S_n$ , $a_1$ e $a_n$)
+**Notações Especiais:** (usam <img src="https://render.githubusercontent.com/render/math?math=x"> e <img src="https://render.githubusercontent.com/render/math?math=q">)
+**Soma de Termos: <img src="https://render.githubusercontent.com/render/math?math=S_n = \frac{(a_1 + a_n) . n}{2}">** (usa <img src="https://render.githubusercontent.com/render/math?math=S_n"> , <img src="https://render.githubusercontent.com/render/math?math=a_1"> e <img src="https://render.githubusercontent.com/render/math?math=a_n">)
 
 </aside>
 
@@ -174,15 +174,15 @@ $r = \frac{aₙ - a_k}{(n - k)}$
 
 ![pg-termo-geral2.png](Seque%CC%82ncia%207988f/pg-termo-geral2.png)
 
-> $a_n = a_1 . q^{n-1}$
+> <img src="https://render.githubusercontent.com/render/math?math=a_n = a_1 . q^{n-1}">
 > 
 
 ![pg-termo-geral3.png](Seque%CC%82ncia%207988f/pg-termo-geral3.png)
 
-> $a_n = a_k . q^{n-k}$
+> <img src="https://render.githubusercontent.com/render/math?math=a_n = a_k . q^{n-k}">
 > 
 > 
-> $q = \sqrt[n-k]{\frac{a_n}{a_k}} ⇒ q = \frac{a_n}{a_{n-1}}$
+> <img src="https://render.githubusercontent.com/render/math?math=q = \sqrt[n-k]{\frac{a_n}{a_k}} ⇒ q = \frac{a_n}{a_{n-1}}">
 > 
 
 ![pg-termo-geral4.png](Seque%CC%82ncia%207988f/pg-termo-geral4.png)
@@ -195,7 +195,7 @@ $r = \frac{aₙ - a_k}{(n - k)}$
 
 ![pg-termo-geral-props2.png](Seque%CC%82ncia%207988f/pg-termo-geral-props2.png)
 
-> $a_n = \sqrt{a_{n-1}.a_{n+1}}$
+> <img src="https://render.githubusercontent.com/render/math?math=a_n = \sqrt{a_{n-1}.a_{n+1}}">
 > 
 
 ### Exemplos
@@ -246,7 +246,7 @@ $r = \frac{aₙ - a_k}{(n - k)}$
 
 ![pg-soma-dos-termos-finito.png](Seque%CC%82ncia%207988f/pg-soma-dos-termos-finito.png)
 
-> $**S_n = \frac{a_1.(q^n - 1)}{q - 1}**$
+> <img src="https://render.githubusercontent.com/render/math?math=**S_n = \frac{a_1.(q^n - 1)}{q - 1}**">
 > 
 
 ### Exemplos
@@ -267,7 +267,7 @@ $r = \frac{aₙ - a_k}{(n - k)}$
 
 ![pg-soma-dos-termos-infinitos2.png](Seque%CC%82ncia%207988f/pg-soma-dos-termos-infinitos2.png)
 
-> $S_\infin = \lim\limits_{x \to \infin} . \frac{a_1}{1 - q}$
+> <img src="https://render.githubusercontent.com/render/math?math=S_\infin = \lim\limits_{x \to \infin} . \frac{a_1}{1 - q}">
 > 
 
 ### Exemplos
@@ -336,23 +336,23 @@ $r = \frac{aₙ - a_k}{(n - k)}$
 <aside>
 🗒️ **Resumo de** **PA**
 
-**Termo Geral:** $a_k = aₙ  + (n - k).r ⇒ r = \frac{aₙ - a_k}{(n - k)}$ (usa $a_n$, $a_k$ e $r$)
-**Média Aritmética de Adjacentes:** $a_n = \frac{a_{n-1} + a_{n+1}}{2}$ (usa somente $a_n$)
+**Termo Geral:** <img src="https://render.githubusercontent.com/render/math?math=a_k = aₙ  + (n - k).r ⇒ r = \frac{aₙ - a_k}{(n - k)}"> (usa <img src="https://render.githubusercontent.com/render/math?math=a_n">, <img src="https://render.githubusercontent.com/render/math?math=a_k"> e <img src="https://render.githubusercontent.com/render/math?math=r">)
+**Média Aritmética de Adjacentes:** <img src="https://render.githubusercontent.com/render/math?math=a_n = \frac{a_{n-1} + a_{n+1}}{2}"> (usa somente <img src="https://render.githubusercontent.com/render/math?math=a_n">)
 **Soma de Termos Equidistantes:** 
-**Notações Especiais:** (usam $x$ e $q$)
-**Soma de Termos: $S_n = \frac{(a_1 + a_n) . n}{2}$** (usa $S_n$ , $a_1$ e $a_n$)
+**Notações Especiais:** (usam <img src="https://render.githubusercontent.com/render/math?math=x"> e <img src="https://render.githubusercontent.com/render/math?math=q">)
+**Soma de Termos: <img src="https://render.githubusercontent.com/render/math?math=S_n = \frac{(a_1 + a_n) . n}{2}">** (usa <img src="https://render.githubusercontent.com/render/math?math=S_n"> , <img src="https://render.githubusercontent.com/render/math?math=a_1"> e <img src="https://render.githubusercontent.com/render/math?math=a_n">)
 
 </aside>
 
 <aside>
 🗒️ **Resumo de PG**
 
-**Termo Geral:** $a_n = a_k . q^{n-k} ⇒ q = \frac{a_n}{a_{n-1}}$ (usa $a_n$ e $q$)
-**Média Geométrica de Adjacentes:** $a_n = \sqrt{a_{n-1}.a_{n+1}}$ (usa somente $a_n$)
+**Termo Geral:** <img src="https://render.githubusercontent.com/render/math?math=a_n = a_k . q^{n-k} ⇒ q = \frac{a_n}{a_{n-1}}"> (usa <img src="https://render.githubusercontent.com/render/math?math=a_n"> e <img src="https://render.githubusercontent.com/render/math?math=q">)
+**Média Geométrica de Adjacentes:** <img src="https://render.githubusercontent.com/render/math?math=a_n = \sqrt{a_{n-1}.a_{n+1}}"> (usa somente <img src="https://render.githubusercontent.com/render/math?math=a_n">)
 **Produto entre Termos Equidistantes:** 
-**Notações Especiais:** (usam $x$ e $q$)
-**Soma de Termos (PG finita): $S_n = \frac{a_1.(q^n - 1)}{q - 1}$** (usa $S_n$ , $a_1$ e $q$)
-**Soma de Termos (PG infinita):** $S_\infin = \lim\limits_{x \to \infin} . \frac{a_1}{1 - q}$ (usa $S_\infin$, $a_1$, $q$ e $\lim\limits_{x \to \infin}$)
+**Notações Especiais:** (usam <img src="https://render.githubusercontent.com/render/math?math=x"> e <img src="https://render.githubusercontent.com/render/math?math=q">)
+**Soma de Termos (PG finita): <img src="https://render.githubusercontent.com/render/math?math=S_n = \frac{a_1.(q^n - 1)}{q - 1}">** (usa <img src="https://render.githubusercontent.com/render/math?math=S_n"> , <img src="https://render.githubusercontent.com/render/math?math=a_1"> e <img src="https://render.githubusercontent.com/render/math?math=q">)
+**Soma de Termos (PG infinita):** <img src="https://render.githubusercontent.com/render/math?math=S_\infin = \lim\limits_{x \to \infin} . \frac{a_1}{1 - q}"> (usa <img src="https://render.githubusercontent.com/render/math?math=S_\infin">, <img src="https://render.githubusercontent.com/render/math?math=a_1">, <img src="https://render.githubusercontent.com/render/math?math=q"> e <img src="https://render.githubusercontent.com/render/math?math=\lim\limits_{x \to \infin}">)
 
 </aside>
 
@@ -371,7 +371,7 @@ Trata-se do exemplo clássico dos coelhos, em que Fibonacci descreve o crescimen
 
 A sequência é definida mediante a seguinte fórmula:
 
-> $F_n = F_{n - 1} + F_{n - 2}$
+> <img src="https://render.githubusercontent.com/render/math?math=F_n = F_{n - 1} + F_{n - 2}">
 > 
 
 ## Retângulo de ouro
@@ -395,7 +395,7 @@ Muito interessante é o fato de que através do coeficiente de um número com o 
 > (**1, 1, 2, 5, 14, 42, 132, 429, 1430, 4862, 16796, ...)**
 > 
 
-> $c(x) = \displaystyle\sum_{n=0}^\infin . C_n . x^n$
+> <img src="https://render.githubusercontent.com/render/math?math=c(x) = \displaystyle\sum_{n=0}^\infin . C_n . x^n">
 > 
 
 # Números triangulares e quadrados perfeitos
@@ -404,8 +404,8 @@ Muito interessante é o fato de que através do coeficiente de um número com o 
 
 ![numeros-triangulares-e-quadrados-perfeitos2.png](Seque%CC%82ncia%207988f/numeros-triangulares-e-quadrados-perfeitos2.png)
 
-> $T_n = \frac{n(n + 1)}{2}$
-$T_n + T_{n-1} = n^2$
+> <img src="https://render.githubusercontent.com/render/math?math=T_n = \frac{n(n + 1)}{2}">
+<img src="https://render.githubusercontent.com/render/math?math=T_n + T_{n-1} = n^2">
 > 
 
 # Sequência de números primos

@@ -6,7 +6,7 @@
 
 ![definicao.png](Bino%CC%82mios%207d7bf/definicao.png)
 
-> $\binom{n}{p} = C^p_n = \frac {n!} {p!(n-p)!}$
+> <img src="https://render.githubusercontent.com/render/math?math=\binom{n}{p} = C^p_n = \frac {n!} {p!(n-p)!}">
 > 
 
 ## Propriedades
@@ -25,14 +25,14 @@
 
 ![props-denominador-zero.png](Bino%CC%82mios%207d7bf/props-denominador-zero.png)
 
-> $\binom n 0 = 1$
+> <img src="https://render.githubusercontent.com/render/math?math=\binom n 0 = 1">
 > 
 
 ### Numerador e denominador iguais
 
 ![props-numerador-e-denominador-iguais.png](Bino%CC%82mios%207d7bf/props-numerador-e-denominador-iguais.png)
 
-> $\binom n n = 1$
+> <img src="https://render.githubusercontent.com/render/math?math=\binom n n = 1">
 > 
 
 # Triângulo de Pascal
@@ -45,7 +45,7 @@
 
 ![relacao-de-stifel.png](Bino%CC%82mios%207d7bf/relacao-de-stifel.png)
 
-> $\binom n p = \binom {n - 1} {p - 1} + \binom {n - 1} {p}$
+> <img src="https://render.githubusercontent.com/render/math?math=\binom n p = \binom {n - 1} {p - 1} + \binom {n - 1} {p}">
 > 
 
 # Binômio de Newton
@@ -54,7 +54,7 @@
 
 ![definicao.png](Bino%CC%82mios%207d7bf/definicao%202.png)
 
-> **Para $x + a ≠ 0$**
+> **Para <img src="https://render.githubusercontent.com/render/math?math=x + a ≠ 0">**
 > 
 
 ![definicao-nota.png](Bino%CC%82mios%207d7bf/definicao-nota.png)
@@ -72,7 +72,7 @@
 
 ![termo-geral.png](Bino%CC%82mios%207d7bf/termo-geral.png)
 
-> $T_{k+1} = \binom n k\space .\space k^{n-k}\space .\space a^k$
+> <img src="https://render.githubusercontent.com/render/math?math=T_{k+1} = \binom n k\space .\space k^{n-k}\space .\space a^k">
 > 
 
 ---

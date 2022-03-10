@@ -12,8 +12,8 @@
 
 ![segmento-paralelo-ao-eixo-x.png](Geometria%20%2033050/segmento-paralelo-ao-eixo-x.png)
 
-> $d_{AB} = |x_B - x_A| = |\varDelta x|$
-$y_A = y_B$
+> <img src="https://render.githubusercontent.com/render/math?math=d_{AB} = |x_B - x_A| = |\varDelta x|">
+<img src="https://render.githubusercontent.com/render/math?math=y_A = y_B">
 > 
 
 ---
@@ -26,8 +26,8 @@ $y_A = y_B$
 
 ![segmento-paralelo-ao-eixo-y.png](Geometria%20%2033050/segmento-paralelo-ao-eixo-y.png)
 
-> $d_{AB} = |y_B - y_A| = |\varDelta y|$
-$x_A = x_B$
+> <img src="https://render.githubusercontent.com/render/math?math=d_{AB} = |y_B - y_A| = |\varDelta y|">
+<img src="https://render.githubusercontent.com/render/math?math=x_A = x_B">
 > 
 
 ---
@@ -40,7 +40,7 @@ $x_A = x_B$
 
 ![segmento-nao-paralelo-aos-eixos.png](Geometria%20%2033050/segmento-nao-paralelo-aos-eixos.png)
 
-> $d_{AB} = \sqrt{(x_A - x_B)^2 + (y_A - y_B)^2} = \sqrt{(Δx)^2 + (Δy)^2}$
+> <img src="https://render.githubusercontent.com/render/math?math=d_{AB} = \sqrt{(x_A - x_B)^2 + (y_A - y_B)^2} = \sqrt{(Δx)^2 + (Δy)^2}">
 > 
 
 ---
@@ -53,8 +53,8 @@ $x_A = x_B$
 
 ![definicao.png](Geometria%20%2033050/definicao.png)
 
-> $x_M = \frac {x_A + x_B} 2$
-$y_M = \frac {y_A + y_B} 2$
+> <img src="https://render.githubusercontent.com/render/math?math=x_M = \frac {x_A + x_B} 2">
+<img src="https://render.githubusercontent.com/render/math?math=y_M = \frac {y_A + y_B} 2">
 > 
 
 ---
@@ -77,8 +77,8 @@ $y_M = \frac {y_A + y_B} 2$
 
 ![baricentro-definicao.png](Geometria%20%2033050/baricentro-definicao.png)
 
-> $x_G = \frac {x_A + x_B + x_C} 3$
-$y_G = \frac {y_A + y_B + y_C} 3$
+> <img src="https://render.githubusercontent.com/render/math?math=x_G = \frac {x_A + x_B + x_C} 3">
+<img src="https://render.githubusercontent.com/render/math?math=y_G = \frac {y_A + y_B + y_C} 3">
 > 
 
 ---
@@ -91,7 +91,7 @@ $y_G = \frac {y_A + y_B + y_C} 3$
 
 ![area-do-triangulo.png](Geometria%20%2033050/area-do-triangulo.png)
 
-> $A = \frac 1 2 . |D|$
+> <img src="https://render.githubusercontent.com/render/math?math=A = \frac 1 2 . |D|">
 > 
 
 > $D = \begin{vmatrix}
@@ -131,7 +131,7 @@ $y_G = \frac {y_A + y_B + y_C} 3$
 
 ![area-poligono-convexo.png](Geometria%20%2033050/area-poligono-convexo.png)
 
-> $A = \frac 1 2 . |D|$
+> <img src="https://render.githubusercontent.com/render/math?math=A = \frac 1 2 . |D|">
 > 
 
 > $D = \begin{vmatrix}
@@ -174,7 +174,7 @@ $y_G = \frac {y_A + y_B + y_C} 3$
 
 ![equacao-geral-da-reta.png](Geometria%20%2033050/equacao-geral-da-reta.png)
 
-> $ax + by + c = 0$
+> <img src="https://render.githubusercontent.com/render/math?math=ax + by + c = 0">
 > 
 
 ---
@@ -201,14 +201,14 @@ $y_G = \frac {y_A + y_B + y_C} 3$
 
 ![coeficiente-angular.png](Geometria%20%2033050/coeficiente-angular.png)
 
-> **Por consequência da definição, não há coeficiente angular definido para $\alpha$ igual à 90°, sendo que nesse caso um reta vertical é formada com equação reduzida $y = n$.**
+> **Por consequência da definição, não há coeficiente angular definido para <img src="https://render.githubusercontent.com/render/math?math=\alpha"> igual à 90°, sendo que nesse caso um reta vertical é formada com equação reduzida <img src="https://render.githubusercontent.com/render/math?math=y = n">.**
 > 
 
 ### A partir de dois pontos
 
 ![coeficiente-angular-dois-pontos.png](Geometria%20%2033050/coeficiente-angular-dois-pontos.png)
 
-> $m = tg\space \alpha = \frac {y_B - y_A} {x_B - x_A} = \frac {y_A - y_B} {x_A - x_B} = \frac {\varDelta y} {\varDelta x}$
+> <img src="https://render.githubusercontent.com/render/math?math=m = tg\space \alpha = \frac {y_B - y_A} {x_B - x_A} = \frac {y_A - y_B} {x_A - x_B} = \frac {\varDelta y} {\varDelta x}">
 > 
 
 ---
@@ -226,8 +226,8 @@ $y_G = \frac {y_A + y_B + y_C} 3$
 
 ![equacao-reduzida-da-reta.png](Geometria%20%2033050/equacao-reduzida-da-reta.png)
 
-> $y = mx + n = - \frac {ax} b - \frac c b$
-$m = - \frac a b$
+> <img src="https://render.githubusercontent.com/render/math?math=y = mx + n = - \frac {ax} b - \frac c b">
+<img src="https://render.githubusercontent.com/render/math?math=m = - \frac a b">
 > 
 
 ---
@@ -242,7 +242,7 @@ $m = - \frac a b$
 
 ![reta-com-declividade-e-ponto-conhecido.png](Geometria%20%2033050/reta-com-declividade-e-ponto-conhecido.png)
 
-> $y - y_o = m(x - x_o)$
+> <img src="https://render.githubusercontent.com/render/math?math=y - y_o = m(x - x_o)">
 > 
 
 > **Macete para decorar a fórmula:
@@ -265,7 +265,7 @@ $m = - \frac a b$
 
 ![posicao-relativa-entre-retas-paralelismo.png](Geometria%20%2033050/posicao-relativa-entre-retas-paralelismo.png)
 
-> $r \parallel s ⇒ m_r = m_s$
+> <img src="https://render.githubusercontent.com/render/math?math=r \parallel s ⇒ m_r = m_s">
 > 
 
 ---
@@ -280,7 +280,7 @@ $m = - \frac a b$
 
 ![posicao-relativa-entre-retas-perpendicularidade.png](Geometria%20%2033050/posicao-relativa-entre-retas-perpendicularidade.png)
 
-> $r \perp s ⇒ m_r = - \frac {1} {m_s}$
+> <img src="https://render.githubusercontent.com/render/math?math=r \perp s ⇒ m_r = - \frac {1} {m_s}">
 > 
 
 > **É comum dizer que em retas perpendiculares que o coeficiente angular de uma é o inverso do oposto da outra.**
@@ -300,7 +300,7 @@ $m = - \frac a b$
 
 ![equacao-segmentaria-da-reta.png](Geometria%20%2033050/equacao-segmentaria-da-reta.png)
 
-> $\frac x p + \frac y q = 1$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac x p + \frac y q = 1">
 > 
 
 > **Em uma questão, caso você perceba que são dados dois pontos de uma reta indicando exatamente onde ela cruza no eixo x e y, o indicado é aplicar a equação na forma segmentária e obter as demais a partir dela.**
@@ -337,7 +337,7 @@ $m = - \frac a b$
 
 ![distancia-entre-ponto-e-reta2.png](Geometria%20%2033050/distancia-entre-ponto-e-reta2.png)
 
-> $d_{P,r} = \frac {|ax_o + by_o + c|} {\sqrt{a^2 + b^2}}$
+> <img src="https://render.githubusercontent.com/render/math?math=d_{P,r} = \frac {|ax_o + by_o + c|} {\sqrt{a^2 + b^2}}">
 > 
 
 ---
@@ -358,7 +358,7 @@ $m = - \frac a b$
 
 ![angulo-entre-duas-retas-caso1.png](Geometria%20%2033050/angulo-entre-duas-retas-caso1.png)
 
-> $tg\space \theta = |\frac 1 {m_r}|$
+> <img src="https://render.githubusercontent.com/render/math?math=tg\space \theta = |\frac 1 {m_r}|">
 > 
 
 ---
@@ -371,7 +371,7 @@ $m = - \frac a b$
 
 ![angulo-entre-duas-retas-caso2.png](Geometria%20%2033050/angulo-entre-duas-retas-caso2.png)
 
-> $tg\space \theta = |\frac {m_r -\space  m_s} {1\space +\space m_r\space .\space m_s}|$
+> <img src="https://render.githubusercontent.com/render/math?math=tg\space \theta = |\frac {m_r -\space  m_s} {1\space +\space m_r\space .\space m_s}|">
 > 
 
 ---
@@ -390,7 +390,7 @@ $m = - \frac a b$
 
 ![equacao-reduzida.png](Geometria%20%2033050/equacao-reduzida.png)
 
-> $(x - x_C)^2 + (y - y_C)^2 = R^2$
+> <img src="https://render.githubusercontent.com/render/math?math=(x - x_C)^2 + (y - y_C)^2 = R^2">
 > 
 
 ---
@@ -415,14 +415,14 @@ $m = - \frac a b$
 
 ![equacao-geral2.png](Geometria%20%2033050/equacao-geral2.png)
 
-> $Ax^2 + Bx^2 + Cxy\space + Dx + Ey + F = 0$
-$x^2 + y^2 - 2x_C.x - 2y_C.y + {x_C}^2 + {y_C}^2 - R^2 = 0$
+> <img src="https://render.githubusercontent.com/render/math?math=Ax^2 + Bx^2 + Cxy\space + Dx + Ey + F = 0">
+<img src="https://render.githubusercontent.com/render/math?math=x^2 + y^2 - 2x_C.x - 2y_C.y + {x_C}^2 + {y_C}^2 - R^2 = 0">
 
-$A = B = 1$
-$C = 0$
-$x_C = \frac D {-2}$
-$y_C = \frac E {-2}$
-$R = \sqrt{{x_C}^2 + {y_C}^2 - F}$
+<img src="https://render.githubusercontent.com/render/math?math=A = B = 1">
+<img src="https://render.githubusercontent.com/render/math?math=C = 0">
+<img src="https://render.githubusercontent.com/render/math?math=x_C = \frac D {-2}">
+<img src="https://render.githubusercontent.com/render/math?math=y_C = \frac E {-2}">
+<img src="https://render.githubusercontent.com/render/math?math=R = \sqrt{{x_C}^2 + {y_C}^2 - F}">
 > 
 
 ---
@@ -591,8 +591,8 @@ $R = \sqrt{{x_C}^2 + {y_C}^2 - F}$
 
 ![elipse-elementos-principais.png](Geometria%20%2033050/elipse-elementos-principais.png)
 
-> $a^2 = b^2 + c^2$
-$e = \frac c a : 0 < e < 1$
+> <img src="https://render.githubusercontent.com/render/math?math=a^2 = b^2 + c^2">
+<img src="https://render.githubusercontent.com/render/math?math=e = \frac c a : 0 < e < 1">
 > 
 
 > **Quanto mais próximo à excentricidade da elipse se aproximar de 1, mais ela se parecerá como uma reta.**
@@ -604,7 +604,7 @@ $e = \frac c a : 0 < e < 1$
 
 ![elipse-equacao-reduzida-caso1.png](Geometria%20%2033050/elipse-equacao-reduzida-caso1.png)
 
-> $\frac {x^2} {a^2} + \frac {y^2} {b^2} = 1$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac {x^2} {a^2} + \frac {y^2} {b^2} = 1">
 > 
 
 ---
@@ -617,7 +617,7 @@ $e = \frac c a : 0 < e < 1$
 
 ![elipse-equacao-reduzida-caso2.png](Geometria%20%2033050/elipse-equacao-reduzida-caso2.png)
 
-> $\frac {x^2} {b^2} + \frac {y^2} {a^2} = 1$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac {x^2} {b^2} + \frac {y^2} {a^2} = 1">
 > 
 
 ---
@@ -630,8 +630,8 @@ $e = \frac c a : 0 < e < 1$
 
 ![elipse-equacao-reduzida-caso3.png](Geometria%20%2033050/elipse-equacao-reduzida-caso3.png)
 
-> $\frac {(x - x_O)^2} {a^2} + \frac {(y - y_O)^2} {b^2} = 1$
-$\frac {(x - x_O)^2} {b^2} + \frac {(y - y_O)^2} {a^2} = 1$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac {(x - x_O)^2} {a^2} + \frac {(y - y_O)^2} {b^2} = 1">
+<img src="https://render.githubusercontent.com/render/math?math=\frac {(x - x_O)^2} {b^2} + \frac {(y - y_O)^2} {a^2} = 1">
 > 
 
 ---
@@ -673,7 +673,7 @@ $\frac {(x - x_O)^2} {b^2} + \frac {(y - y_O)^2} {a^2} = 1$
 
 ![elipse-equacao-geral-ex1.png](Geometria%20%2033050/elipse-equacao-geral-ex1.png)
 
-> **Uma característica marcante de equações de elipse são que, em seu formato geral, os coeficientes de $x^2$ e $y^2$ nunca são iguais e possuem sinal positivo, pois então se trataria de uma circunferência ou uma hipérbole, respectivamente.**
+> **Uma característica marcante de equações de elipse são que, em seu formato geral, os coeficientes de <img src="https://render.githubusercontent.com/render/math?math=x^2"> e <img src="https://render.githubusercontent.com/render/math?math=y^2"> nunca são iguais e possuem sinal positivo, pois então se trataria de uma circunferência ou uma hipérbole, respectivamente.**
 > 
 
 ![elipse-equacao-geral-ex2.png](Geometria%20%2033050/elipse-equacao-geral-ex2.png)
@@ -690,8 +690,8 @@ $\frac {(x - x_O)^2} {b^2} + \frac {(y - y_O)^2} {a^2} = 1$
 
 ![hiperbole-elementos-principais.png](Geometria%20%2033050/hiperbole-elementos-principais.png)
 
-> $c^2 = a^2 + b^2$
-$e = \frac c a : e > 1$
+> <img src="https://render.githubusercontent.com/render/math?math=c^2 = a^2 + b^2">
+<img src="https://render.githubusercontent.com/render/math?math=e = \frac c a : e > 1">
 > 
 
 > **Quanto mais próximo à excentricidade da hipérbole se aproximar de 1, mais ela se parecerá com duas retas paralelas.**
@@ -703,7 +703,7 @@ $e = \frac c a : e > 1$
 
 ![hiperbole-equacao-reduzida-caso1.png](Geometria%20%2033050/hiperbole-equacao-reduzida-caso1.png)
 
-> $\frac {x^2} {a^2} - \frac {y^2} {b^2} = 1$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac {x^2} {a^2} - \frac {y^2} {b^2} = 1">
 > 
 
 ---
@@ -716,7 +716,7 @@ $e = \frac c a : e > 1$
 
 ![hiperbole-equacao-reduzida-caso2.png](Geometria%20%2033050/hiperbole-equacao-reduzida-caso2.png)
 
-> $\frac {y^2} {a^2} - \frac {x^2} {b^2} = 1$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac {y^2} {a^2} - \frac {x^2} {b^2} = 1">
 > 
 
 ---
@@ -729,8 +729,8 @@ $e = \frac c a : e > 1$
 
 ![hiperbole-equacao-reduzida-caso3.png](Geometria%20%2033050/hiperbole-equacao-reduzida-caso3.png)
 
-> $\frac {(x - x_O)^2} {a^2} - \frac {(y - y_O)^2} {b^2} = 1$
-$\frac {(y - y_O)^2} {a^2} - \frac {(x - x_O)^2} {b^2} = 1$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac {(x - x_O)^2} {a^2} - \frac {(y - y_O)^2} {b^2} = 1">
+<img src="https://render.githubusercontent.com/render/math?math=\frac {(y - y_O)^2} {a^2} - \frac {(x - x_O)^2} {b^2} = 1">
 > 
 
 ---
@@ -799,7 +799,7 @@ $\frac {(y - y_O)^2} {a^2} - \frac {(x - x_O)^2} {b^2} = 1$
 
 ![parabola-elementos-principais.png](Geometria%20%2033050/parabola-elementos-principais.png)
 
-> $c = \frac p 2$
+> <img src="https://render.githubusercontent.com/render/math?math=c = \frac p 2">
 > 
 
 ### Equação reduzida
@@ -808,8 +808,8 @@ $\frac {(y - y_O)^2} {a^2} - \frac {(x - x_O)^2} {b^2} = 1$
 
 ![parabola-equacao-reduzida-caso1.png](Geometria%20%2033050/parabola-equacao-reduzida-caso1.png)
 
-> $x^2 = 4cy$
-$x^2 = -4cy$
+> <img src="https://render.githubusercontent.com/render/math?math=x^2 = 4cy">
+<img src="https://render.githubusercontent.com/render/math?math=x^2 = -4cy">
 > 
 
 ---
@@ -822,8 +822,8 @@ $x^2 = -4cy$
 
 ![parabola-equacao-reduzida-caso2.png](Geometria%20%2033050/parabola-equacao-reduzida-caso2.png)
 
-> $y^2 = 4cx$
-$y^2 = -4cx$
+> <img src="https://render.githubusercontent.com/render/math?math=y^2 = 4cx">
+<img src="https://render.githubusercontent.com/render/math?math=y^2 = -4cx">
 > 
 
 ---
@@ -838,10 +838,10 @@ $y^2 = -4cx$
 
 ![parabola-equacao-reduzida-caso3.png](Geometria%20%2033050/parabola-equacao-reduzida-caso3.png)
 
-> $(x - x_V)^2 = 4c(y - y_V)$
-$(x - x_V)^2 = - 4c(y - y_V)$
-$(y - y_V)^2 = 4c(x - x_V)$
-$(y - y_V)^2 = -4c(x - x_V)$
+> <img src="https://render.githubusercontent.com/render/math?math=(x - x_V)^2 = 4c(y - y_V)">
+<img src="https://render.githubusercontent.com/render/math?math=(x - x_V)^2 = - 4c(y - y_V)">
+<img src="https://render.githubusercontent.com/render/math?math=(y - y_V)^2 = 4c(x - x_V)">
+<img src="https://render.githubusercontent.com/render/math?math=(y - y_V)^2 = -4c(x - x_V)">
 > 
 
 ---
@@ -886,7 +886,7 @@ $(y - y_V)^2 = -4c(x - x_V)$
 
 # Resumo
 
-> ***Com relação às semelhanças entre circunferência, elipse e hipérbole, no que diz respeito ao valor dos coeficientes de $x^2$ e $y^2$  e seus sinais na equação reduzida, vale notar que:*
+> ***Com relação às semelhanças entre circunferência, elipse e hipérbole, no que diz respeito ao valor dos coeficientes de <img src="https://render.githubusercontent.com/render/math?math=x^2"> e <img src="https://render.githubusercontent.com/render/math?math=y^2">  e seus sinais na equação reduzida, vale notar que:*
 - Coeficientes iguais e sinais iguais ⇒ Circunferência
 - Coeficientes diferentes e sinais iguais ⇒ Elipse
 - Coeficientes iguais e sinais contrários ⇒ Hipérbole

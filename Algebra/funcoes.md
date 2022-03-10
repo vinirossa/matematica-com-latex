@@ -365,7 +365,7 @@
 
 ![coeficiente-angular-e-linear.png](Func%CC%A7o%CC%83es%2002c07/coeficiente-angular-e-linear.png)
 
-## Coeficiente angular ($a$)
+## Coeficiente angular (<img src="https://render.githubusercontent.com/render/math?math=a">)
 
 ![coeficiente-angular.png](Func%CC%A7o%CC%83es%2002c07/coeficiente-angular.png)
 
@@ -385,11 +385,11 @@
 
 ![coeficiente-angular-2.png](Func%CC%A7o%CC%83es%2002c07/coeficiente-angular-2.png)
 
-## Coeficiente linear ($b$)
+## Coeficiente linear (<img src="https://render.githubusercontent.com/render/math?math=b">)
 
 ![coeficiente-linear.png](Func%CC%A7o%CC%83es%2002c07/coeficiente-linear.png)
 
-> $b = f(0)$
+> <img src="https://render.githubusercontent.com/render/math?math=b = f(0)">
 > 
 
 ### Exemplos
@@ -434,7 +434,7 @@
 
 ![funcao-constante.png](Func%CC%A7o%CC%83es%2002c07/funcao-constante.png)
 
-> $**1ˣ$ é um exemplo de função constante, apesar de parecer exponencial.**
+> <img src="https://render.githubusercontent.com/render/math?math=**1ˣ"> é um exemplo de função constante, apesar de parecer exponencial.**
 > 
 
 ### Exemplo
@@ -445,7 +445,7 @@
 
 ![zero-ou-raiz.png](Func%CC%A7o%CC%83es%2002c07/zero-ou-raiz.png)
 
-> $x = f(x) = 0$
+> <img src="https://render.githubusercontent.com/render/math?math=x = f(x) = 0">
 > 
 
 > ***Teoricamente, o correto é o zero da função ou a raiz da equação.***
@@ -547,7 +547,7 @@
 > **Para encontrar o zeros ou raízes de uma função quadrática, basta igualá-la a zero, gerando uma equação do segundo grau que pode ser resolvida algebricamente, pela fórmula de Bhaskara ou pelo método da soma e produto, de acordo com as explicações em [Equações](https://www.notion.so/Equa-es-7a9d2437a93844f597a44ea8a8e5d107).**
 > 
 
-> $x',x'' = f(x) = 0$
+> <img src="https://render.githubusercontent.com/render/math?math=x',x'' = f(x) = 0">
 > 
 
 ![zeros-ou-raizes.png](Func%CC%A7o%CC%83es%2002c07/zeros-ou-raizes.png)
@@ -590,7 +590,7 @@
 
 ![quantidade-de-raizes-reais2.2.png](Func%CC%A7o%CC%83es%2002c07/quantidade-de-raizes-reais2.2.png)
 
-> $yᵥ = 0$
+> <img src="https://render.githubusercontent.com/render/math?math=yᵥ = 0">
 > 
 
 ![quantidade-de-raizes-reais3.1.png](Func%CC%A7o%CC%83es%2002c07/quantidade-de-raizes-reais3.1.png)
@@ -633,7 +633,7 @@
 
 ![coeficientes.png](Func%CC%A7o%CC%83es%2002c07/coeficientes.png)
 
-### Coeficiente $a$
+### Coeficiente <img src="https://render.githubusercontent.com/render/math?math=a">
 
 ![coeficiente-a1.png](Func%CC%A7o%CC%83es%2002c07/coeficiente-a1.png)
 
@@ -641,10 +641,10 @@
 
 ![coeficiente-a3.png](Func%CC%A7o%CC%83es%2002c07/coeficiente-a3.png)
 
-> **Quanto mais próximo de zero for o coeficiente $a$, mais ampla será a parábola, enquanto que quanto maior for o mesmo, menos ampla será a parábola (quase parecendo uma reta).**
+> **Quanto mais próximo de zero for o coeficiente <img src="https://render.githubusercontent.com/render/math?math=a">, mais ampla será a parábola, enquanto que quanto maior for o mesmo, menos ampla será a parábola (quase parecendo uma reta).**
 > 
 
-### Coeficiente $b$
+### Coeficiente <img src="https://render.githubusercontent.com/render/math?math=b">
 
 ![coeficiente-b1.png](Func%CC%A7o%CC%83es%2002c07/coeficiente-b1.png)
 
@@ -654,13 +654,13 @@
 
 ![coeficiente-b3.png](Func%CC%A7o%CC%83es%2002c07/coeficiente-b3%201.png)
 
-> **Quando $b = 0$, a parábola é simétrica ao eixo $y$ e $b = yᵥ$.**
+> **Quando <img src="https://render.githubusercontent.com/render/math?math=b = 0">, a parábola é simétrica ao eixo <img src="https://render.githubusercontent.com/render/math?math=y"> e <img src="https://render.githubusercontent.com/render/math?math=b = yᵥ">.**
 > 
 
-> **Quanto mais próximo de zero for o coeficiente $b$, mais próximo o vértice será do eixo y, enquanto que quanto maior for o mesmo, mais distante o vértice será do eixo y.**
+> **Quanto mais próximo de zero for o coeficiente <img src="https://render.githubusercontent.com/render/math?math=b">, mais próximo o vértice será do eixo y, enquanto que quanto maior for o mesmo, mais distante o vértice será do eixo y.**
 > 
 
-### Coeficiente $c$
+### Coeficiente <img src="https://render.githubusercontent.com/render/math?math=c">
 
 ![coeficiente-c1.png](Func%CC%A7o%CC%83es%2002c07/coeficiente-c1.png)
 
@@ -688,20 +688,20 @@
 
 ![vertice-da-parabola.png](Func%CC%A7o%CC%83es%2002c07/vertice-da-parabola.png)
 
-> $V(xᵥ, yᵥ)$
+> <img src="https://render.githubusercontent.com/render/math?math=V(xᵥ, yᵥ)">
 > 
 
-> $xᵥ = -b / 2a = x' + x'' / 2$
+> <img src="https://render.githubusercontent.com/render/math?math=xᵥ = -b / 2a = x' + x'' / 2">
 > 
 
-> $yᵥ = -∆ / 4a = f(xᵥ)$
+> <img src="https://render.githubusercontent.com/render/math?math=yᵥ = -∆ / 4a = f(xᵥ)">
 > 
 
 ## Valor máximo (ou mínimo)
 
 ![valor-maximo-ou-minimo.png](Func%CC%A7o%CC%83es%2002c07/valor-maximo-ou-minimo.png)
 
-> $vₘₓ ≡ vₘᵢₙ = yᵥ$
+> <img src="https://render.githubusercontent.com/render/math?math=vₘₓ ≡ vₘᵢₙ = yᵥ">
 > 
 
 ## Imagem
@@ -755,7 +755,7 @@
 
 ![estudo-do-sinal.png](Func%CC%A7o%CC%83es%2002c07/estudo-do-sinal%201.png)
 
-> **No estudo do sinal de funções quadráticas, o valor do discriminante ($Δ$) e do coeficiente $a$ são os mais importantes.**
+> **No estudo do sinal de funções quadráticas, o valor do discriminante (<img src="https://render.githubusercontent.com/render/math?math=Δ">) e do coeficiente <img src="https://render.githubusercontent.com/render/math?math=a"> são os mais importantes.**
 > 
 
 ![estudo-do-sinal1.1.png](Func%CC%A7o%CC%83es%2002c07/estudo-do-sinal1.1.png)
@@ -858,8 +858,8 @@
 > 
 > - **Adição:** translada verticalmente a favor do sinal do eixo
 > - **Subtração:** translada verticalmente a favor do sinal do eixo
-> - **Multiplicação:** angula o gráfico em direção ao eixo $y$
-> - **Divisão:** angula o gráfico contra ao eixo $y$
+> - **Multiplicação:** angula o gráfico em direção ao eixo <img src="https://render.githubusercontent.com/render/math?math=y">
+> - **Divisão:** angula o gráfico contra ao eixo <img src="https://render.githubusercontent.com/render/math?math=y">
 > - **Potenciação:**
 > - **Radiciação:**
 > - **Logaritmo:**
@@ -870,7 +870,7 @@
 > 
 > - **Adição:** translada horizontalmente contra o sinal do eixo
 > - **Subtração:** translada horizontalmente contra o sinal do eixo
-> - **Multiplicação:** angula o gráfico em direção ao eixo $y$
+> - **Multiplicação:** angula o gráfico em direção ao eixo <img src="https://render.githubusercontent.com/render/math?math=y">
 > - **Divisão:** angula o gráfico contra ao eixo
 > - **Potenciação:**
 > - **Radiciação:**
@@ -915,7 +915,7 @@
 
 ![graficamente3.png](Func%CC%A7o%CC%83es%2002c07/graficamente3.png)
 
-> **Quando mais próximo o coeficiente $a$ estiver de 1, mais distante o gráfico estará do eixo $y$, enquanto quando mais próximo o coeficiente $a$ estiver de zero ou do mais infinito, mais próximo estará.**
+> **Quando mais próximo o coeficiente <img src="https://render.githubusercontent.com/render/math?math=a"> estiver de 1, mais distante o gráfico estará do eixo <img src="https://render.githubusercontent.com/render/math?math=y">, enquanto quando mais próximo o coeficiente <img src="https://render.githubusercontent.com/render/math?math=a"> estiver de zero ou do mais infinito, mais próximo estará.**
 > 
 
 ### Exemplos
@@ -1000,10 +1000,10 @@
 
 ![definicao.png](Func%CC%A7o%CC%83es%2002c07/definicao%204.png)
 
-> $f(x) = sen\space x$
-$D = ℝ$
-$Im = [-1,1]$
-$P = 2π$
+> <img src="https://render.githubusercontent.com/render/math?math=f(x) = sen\space x">
+<img src="https://render.githubusercontent.com/render/math?math=D = ℝ">
+<img src="https://render.githubusercontent.com/render/math?math=Im = [-1,1]">
+<img src="https://render.githubusercontent.com/render/math?math=P = 2π">
 > 
 
 ### Propriedades
@@ -1022,9 +1022,9 @@ $P = 2π$
 
 ![funcoes-tipo-seno-definicao.png](Func%CC%A7o%CC%83es%2002c07/funcoes-tipo-seno-definicao.png)
 
-> $f(x) = a + b.sen(c.x + d)$
-$Im = [a - |b|, a + |b|]$
-$P = \frac {2\pi} {|c|}$
+> <img src="https://render.githubusercontent.com/render/math?math=f(x) = a + b.sen(c.x + d)">
+<img src="https://render.githubusercontent.com/render/math?math=Im = [a - |b|, a + |b|]">
+<img src="https://render.githubusercontent.com/render/math?math=P = \frac {2\pi} {|c|}">
 > 
 
 ---
@@ -1043,10 +1043,10 @@ $P = \frac {2\pi} {|c|}$
 
 ![definicao.png](Func%CC%A7o%CC%83es%2002c07/definicao%205.png)
 
-> $f(x) = cos\space x$
-$D = ℝ$
-$Im = [-1,1]$
-$P = 2π$
+> <img src="https://render.githubusercontent.com/render/math?math=f(x) = cos\space x">
+<img src="https://render.githubusercontent.com/render/math?math=D = ℝ">
+<img src="https://render.githubusercontent.com/render/math?math=Im = [-1,1]">
+<img src="https://render.githubusercontent.com/render/math?math=P = 2π">
 > 
 
 ### Propriedades
@@ -1065,10 +1065,10 @@ $P = 2π$
 
 ![funcoes-tipo-cosseno-definicao.png](Func%CC%A7o%CC%83es%2002c07/funcoes-tipo-cosseno-definicao.png)
 
-> $f(x) = a + b.cos(c.x + d)$
-$D = ℝ$
-$Im = [a - |b|, a + |b|]$
-$P = \frac {2π} {|c|}$
+> <img src="https://render.githubusercontent.com/render/math?math=f(x) = a + b.cos(c.x + d)">
+<img src="https://render.githubusercontent.com/render/math?math=D = ℝ">
+<img src="https://render.githubusercontent.com/render/math?math=Im = [a - |b|, a + |b|]">
+<img src="https://render.githubusercontent.com/render/math?math=P = \frac {2π} {|c|}">
 > 
 
 ---
@@ -1087,10 +1087,10 @@ $P = \frac {2π} {|c|}$
 
 ![definicao.png](Func%CC%A7o%CC%83es%2002c07/definicao%206.png)
 
-> $f(x) = tg(x)$
-$D = \lbrace x ∈ ℝ | x ≠ \frac π 2 + k.π, k ∈ ℤ \rbrace$
-$Im = ℝ$
-$P = π$
+> <img src="https://render.githubusercontent.com/render/math?math=f(x) = tg(x)">
+<img src="https://render.githubusercontent.com/render/math?math=D = \lbrace x ∈ ℝ | x ≠ \frac π 2 + k.π, k ∈ ℤ \rbrace">
+<img src="https://render.githubusercontent.com/render/math?math=Im = ℝ">
+<img src="https://render.githubusercontent.com/render/math?math=P = π">
 > 
 
 ### Propriedades
@@ -1107,10 +1107,10 @@ $P = π$
 
 **Definição**
 
-> $f(x) = a + b.tg(c.x + d)$
-$D = \lbrace x ∈ ℝ | x ≠ \frac π 2 + k.π, k ∈ ℤ \rbrace$
-$Im = ℝ$
-$P = \frac π {|c|}$
+> <img src="https://render.githubusercontent.com/render/math?math=f(x) = a + b.tg(c.x + d)">
+<img src="https://render.githubusercontent.com/render/math?math=D = \lbrace x ∈ ℝ | x ≠ \frac π 2 + k.π, k ∈ ℤ \rbrace">
+<img src="https://render.githubusercontent.com/render/math?math=Im = ℝ">
+<img src="https://render.githubusercontent.com/render/math?math=P = \frac π {|c|}">
 > 
 
 ---
@@ -1127,7 +1127,7 @@ $P = \frac π {|c|}$
 
 ![definicao.png](Func%CC%A7o%CC%83es%2002c07/definicao%207.png)
 
-> $f(x) = cossec\space x$
+> <img src="https://render.githubusercontent.com/render/math?math=f(x) = cossec\space x">
 > 
 
 ![revisao.png](Func%CC%A7o%CC%83es%2002c07/revisao.png)
@@ -1146,7 +1146,7 @@ $P = \frac π {|c|}$
 
 ![definicao.png](Func%CC%A7o%CC%83es%2002c07/definicao%208.png)
 
-> $f(x) = sec\space x$
+> <img src="https://render.githubusercontent.com/render/math?math=f(x) = sec\space x">
 > 
 
 ![revisao.png](Func%CC%A7o%CC%83es%2002c07/revisao%201.png)
@@ -1165,7 +1165,7 @@ $P = \frac π {|c|}$
 
 ![definicao.png](Func%CC%A7o%CC%83es%2002c07/definicao%209.png)
 
-> $f(x) = tg\space x$
+> <img src="https://render.githubusercontent.com/render/math?math=f(x) = tg\space x">
 > 
 
 ![revisao.png](Func%CC%A7o%CC%83es%2002c07/revisao%202.png)
@@ -1186,10 +1186,10 @@ $P = \frac π {|c|}$
 
 ![definicao.png](Func%CC%A7o%CC%83es%2002c07/definicao%2010.png)
 
-> $y = arc\space sen\space x ⇒ sen\space y = x$
+> <img src="https://render.githubusercontent.com/render/math?math=y = arc\space sen\space x ⇒ sen\space y = x">
 > 
 
-> **Esse tipo de expressão lê-se como “o arco cujo seno vale $x$” ou então “o ângulo cujo seno vale $x$”.**
+> **Esse tipo de expressão lê-se como “o arco cujo seno vale <img src="https://render.githubusercontent.com/render/math?math=x">” ou então “o ângulo cujo seno vale <img src="https://render.githubusercontent.com/render/math?math=x">”.**
 > 
 
 **Gráfico**
@@ -1210,7 +1210,7 @@ $P = \frac π {|c|}$
 
 ![definicao.png](Func%CC%A7o%CC%83es%2002c07/definicao%2011.png)
 
-> $y = arc\space cos\space x ⇒ cos\space y = x$
+> <img src="https://render.githubusercontent.com/render/math?math=y = arc\space cos\space x ⇒ cos\space y = x">
 > 
 
 **Gráfico**
@@ -1233,7 +1233,7 @@ $P = \frac π {|c|}$
 
 ![definicao.png](Func%CC%A7o%CC%83es%2002c07/definicao%2012.png)
 
-> $y = arc\space tg\space x ⇒ tg\space y = x$
+> <img src="https://render.githubusercontent.com/render/math?math=y = arc\space tg\space x ⇒ tg\space y = x">
 > 
 
 **Gráfico**
@@ -1258,7 +1258,7 @@ $P = \frac π {|c|}$
 
 ![definicao.png](Func%CC%A7o%CC%83es%2002c07/definicao%2013.png)
 
-> $f(x) = a_0 + a_1 x + a_2 x + ... + a_n x^n$
+> <img src="https://render.githubusercontent.com/render/math?math=f(x) = a_0 + a_1 x + a_2 x + ... + a_n x^n">
 > 
 
 ---
@@ -1271,7 +1271,7 @@ $P = \frac π {|c|}$
 
 ![valor-numerico.png](Func%CC%A7o%CC%83es%2002c07/valor-numerico.png)
 
-> **O valor numérico de um polinômio de $x = 1$ é sempre igual à soma dos seus coeficientes, enquanto que o valor numérico  de $x = 0$ é sempre igual ao seu termo independente.**
+> **O valor numérico de um polinômio de <img src="https://render.githubusercontent.com/render/math?math=x = 1"> é sempre igual à soma dos seus coeficientes, enquanto que o valor numérico  de <img src="https://render.githubusercontent.com/render/math?math=x = 0"> é sempre igual ao seu termo independente.**
 > 
 
 ---
@@ -1294,10 +1294,10 @@ $P = \frac π {|c|}$
 
 ![raiz-de-um-polinomio.png](Func%CC%A7o%CC%83es%2002c07/raiz-de-um-polinomio.png)
 
-> $P(a) = 0$
+> <img src="https://render.githubusercontent.com/render/math?math=P(a) = 0">
 > 
 
-> **Graficamente, a raiz de um polinômio é onde o seu gráfico corta o eixo $x$.**
+> **Graficamente, a raiz de um polinômio é onde o seu gráfico corta o eixo <img src="https://render.githubusercontent.com/render/math?math=x">.**
 > 
 
 ---
@@ -1310,7 +1310,7 @@ $P = \frac π {|c|}$
 
 ![polinomios-iguais.png](Func%CC%A7o%CC%83es%2002c07/polinomios-iguais.png)
 
-> $P = Q ⇒ P(a) = Q(a),\space ∀\space a∈ℂ$
+> <img src="https://render.githubusercontent.com/render/math?math=P = Q ⇒ P(a) = Q(a),\space ∀\space a∈ℂ">
 > 
 
 ---
@@ -1357,8 +1357,8 @@ $P = \frac π {|c|}$
 
 ![divisao.png](Func%CC%A7o%CC%83es%2002c07/divisao.png)
 
-> $A(x) = B(x) . Q(x) + R(x)$
-$Grau\space R(x) < Grau\space B(x)$
+> <img src="https://render.githubusercontent.com/render/math?math=A(x) = B(x) . Q(x) + R(x)">
+<img src="https://render.githubusercontent.com/render/math?math=Grau\space R(x) < Grau\space B(x)">
 > 
 
 ### Divisão - **Método da Chave**
@@ -1386,7 +1386,7 @@ $Grau\space R(x) < Grau\space B(x)$
 
 ![divisao-metodo-de-descartes-ex2.png](Func%CC%A7o%CC%83es%2002c07/divisao-metodo-de-descartes-ex2.png)
 
-### Divisão - Por binômios do 1° grau ($x \pm a$)
+### Divisão - Por binômios do 1° grau (<img src="https://render.githubusercontent.com/render/math?math=x \pm a">)
 
 ![divisao-por-binomios-do-1-grau.png](Func%CC%A7o%CC%83es%2002c07/divisao-por-binomios-do-1-grau.png)
 
@@ -1394,7 +1394,7 @@ $Grau\space R(x) < Grau\space B(x)$
 
 ![divisao-por-binomios-do-1-grau-teorema-do-resto.png](Func%CC%A7o%CC%83es%2002c07/divisao-por-binomios-do-1-grau-teorema-do-resto.png)
 
-> $\frac {P(x)} {x \pm a} ⇒ R(x) = P(\mp a)$
+> <img src="https://render.githubusercontent.com/render/math?math=\frac {P(x)} {x \pm a} ⇒ R(x) = P(\mp a)">
 > 
 
 ---
@@ -1413,7 +1413,7 @@ $Grau\space R(x) < Grau\space B(x)$
 
 ![divisao-por-binomios-do-1-grau-teorema-de-dalembert.png](Func%CC%A7o%CC%83es%2002c07/divisao-por-binomios-do-1-grau-teorema-de-dalembert.png)
 
-> $R(x) = P(a) ∧ R(x) = 0 ⇒ P(a) = 0$
+> <img src="https://render.githubusercontent.com/render/math?math=R(x) = P(a) ∧ R(x) = 0 ⇒ P(a) = 0">
 > 
 
 ---
@@ -1478,12 +1478,12 @@ $Grau\space R(x) < Grau\space B(x)$
 
 ![divisao-sucessivas-prop2-ex2.png](Func%CC%A7o%CC%83es%2002c07/divisao-sucessivas-prop2-ex2.png)
 
-### Divisão - Por binômios do 1° grau ($kx - a$)
+### Divisão - Por binômios do 1° grau (<img src="https://render.githubusercontent.com/render/math?math=kx - a">)
 
 ![divisao-por-binomios-kx-a.png](Func%CC%A7o%CC%83es%2002c07/divisao-por-binomios-kx-a.png)
 
-> $kx \pm a ⇒ x = \frac {\mp a} k$
-$Q(x) = \frac {Q_1(x)} k$
+> <img src="https://render.githubusercontent.com/render/math?math=kx \pm a ⇒ x = \frac {\mp a} k">
+<img src="https://render.githubusercontent.com/render/math?math=Q(x) = \frac {Q_1(x)} k">
 > 
 
  **Regra prática**

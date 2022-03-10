@@ -67,14 +67,14 @@
 
 ### Sistema possível e indeterminado (SPI)
 
-> $0x + 0y + 0z = 0$
+> <img src="https://render.githubusercontent.com/render/math?math=0x + 0y + 0z = 0">
 > 
 
 ![classificacao-spi-ex.png](Sistemas%204cc8c/classificacao-spi-ex.png)
 
 ### Sistema impossível (SI)
 
-> $0x + 0y + 0z = b, b ∈ ℝ^*$
+> <img src="https://render.githubusercontent.com/render/math?math=0x + 0y + 0z = b, b ∈ ℝ^*">
 > 
 
 ![classificacao-si-ex.png](Sistemas%204cc8c/classificacao-si-ex.png)

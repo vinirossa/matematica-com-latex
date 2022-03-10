@@ -20,7 +20,7 @@
 
 ![matrizes-tipos5.png](Matrizes%20e%205cfa1/matrizes-tipos5.png)
 
-> $X = (X^t)^t$
+> <img src="https://render.githubusercontent.com/render/math?math=X = (X^t)^t">
 > 
 
 ![matrizes-tipos6.png](Matrizes%20e%205cfa1/matrizes-tipos6.png)

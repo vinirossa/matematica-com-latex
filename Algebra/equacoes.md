@@ -33,7 +33,7 @@
 
 ![definicao.png](Equac%CC%A7o%CC%83es%20f45ed/definicao.png)
 
-> **Em equações quadráticas, a principal característica é que o $x$ sempre terá dois valores, no caso, duas raízes possíveis.**
+> **Em equações quadráticas, a principal característica é que o <img src="https://render.githubusercontent.com/render/math?math=x"> sempre terá dois valores, no caso, duas raízes possíveis.**
 > 
 
 ## Resolução
@@ -44,20 +44,20 @@
 
 ![algebricamente-ex2.png](Equac%CC%A7o%CC%83es%20f45ed/algebricamente-ex2.png)
 
-> **A resolução algébrica é recomendada quando a equação está incompleta, ou seja, quando um ou mais coeficientes ($a, b, c$) são iguais a zero.**
+> **A resolução algébrica é recomendada quando a equação está incompleta, ou seja, quando um ou mais coeficientes (<img src="https://render.githubusercontent.com/render/math?math=a, b, c">) são iguais a zero.**
 > 
 
 ### Fórmula de Bhaskara
 
 ![bhaskara.png](Equac%CC%A7o%CC%83es%20f45ed/bhaskara.png)
 
-> $x = \frac{-b ± √∆}{2a}$
+> <img src="https://render.githubusercontent.com/render/math?math=x = \frac{-b ± √∆}{2a}">
 > 
 
-> $∆ = b² - 4ac$
+> <img src="https://render.githubusercontent.com/render/math?math=∆ = b² - 4ac">
 > 
 
-> **A fórmula de Bhaskara é recomendada quando a equação está completa, ou seja, quando nenhum dos coeficientes ($a, b, c$) é igual à zero.**
+> **A fórmula de Bhaskara é recomendada quando a equação está completa, ou seja, quando nenhum dos coeficientes (<img src="https://render.githubusercontent.com/render/math?math=a, b, c">) é igual à zero.**
 > 
 
 ![bhaskara-ex1.png](Equac%CC%A7o%CC%83es%20f45ed/bhaskara-ex1.png)
@@ -68,13 +68,13 @@
 
 ![bhaskara-natureza.png](Equac%CC%A7o%CC%83es%20f45ed/bhaskara-natureza.png)
 
-> $**∆ = 0 ⇒ x' = x''**$
+> <img src="https://render.githubusercontent.com/render/math?math=**∆ = 0 ⇒ x' = x''**">
 > 
 
-> $**∆ > 0 ⇒ x' ≠ x''**$
+> <img src="https://render.githubusercontent.com/render/math?math=**∆ > 0 ⇒ x' ≠ x''**">
 > 
 
-> $**∆ < 0 ⇒ x', x'' = ∄**$
+> <img src="https://render.githubusercontent.com/render/math?math=**∆ < 0 ⇒ x', x'' = ∄**">
 > 
 
 ![bhaskara-ex3.png](Equac%CC%A7o%CC%83es%20f45ed/bhaskara-ex3.png)
@@ -90,13 +90,13 @@
 
 ![soma-e-produto.png](Equac%CC%A7o%CC%83es%20f45ed/soma-e-produto.png)
 
-> $S = x' + x'' = \frac{-b}{a}$
+> <img src="https://render.githubusercontent.com/render/math?math=S = x' + x'' = \frac{-b}{a}">
 > 
 
-> $P = x' . x'' = \frac{c}{a}$
+> <img src="https://render.githubusercontent.com/render/math?math=P = x' . x'' = \frac{c}{a}">
 > 
 
-> **O método da soma e produto é recomendada quando a equação está completa, ou seja, quando nenhum dos coeficientes ($a, b, c$) é igual à zero, e o valor do coeficiente $a$ for igual à 1.**
+> **O método da soma e produto é recomendada quando a equação está completa, ou seja, quando nenhum dos coeficientes (<img src="https://render.githubusercontent.com/render/math?math=a, b, c">) é igual à zero, e o valor do coeficiente <img src="https://render.githubusercontent.com/render/math?math=a"> for igual à 1.**
 > 
 
 ![soma-e-produto-ex1.png](Equac%CC%A7o%CC%83es%20f45ed/soma-e-produto-ex1.png)
@@ -168,7 +168,7 @@
 
 ![definicao.png](Equac%CC%A7o%CC%83es%20f45ed/definicao%202.png)
 
-> **Equações biquadradas são equações do 4° grau que não possuem uma incógnita $x$ também elevada a 3.**
+> **Equações biquadradas são equações do 4° grau que não possuem uma incógnita <img src="https://render.githubusercontent.com/render/math?math=x"> também elevada a 3.**
 > 
 
 ## Resolução
@@ -230,7 +230,7 @@
 
 ![definicao.png](Equac%CC%A7o%CC%83es%20f45ed/definicao%204.png)
 
-> **Por definição, em equações exponenciais como $aˣ = b$, o coeficiente $b$ sempre deve ser maior que zero, ou seja, $b > 0$.**
+> **Por definição, em equações exponenciais como <img src="https://render.githubusercontent.com/render/math?math=aˣ = b">, o coeficiente <img src="https://render.githubusercontent.com/render/math?math=b"> sempre deve ser maior que zero, ou seja, <img src="https://render.githubusercontent.com/render/math?math=b > 0">.**
 > 
 
 ## Resolução
@@ -361,8 +361,8 @@
 
 ![fundamentais-equacao-seno-definicao.png](Equac%CC%A7o%CC%83es%20f45ed/fundamentais-equacao-seno-definicao.png)
 
-> $sen\space x = a$
-$S = \lbrace x ∈ ℝ | x = α + 2k\pi \space ∪ x = \pi - α + 2k\pi; k ∈ ℤ \rbrace$
+> <img src="https://render.githubusercontent.com/render/math?math=sen\space x = a">
+<img src="https://render.githubusercontent.com/render/math?math=S = \lbrace x ∈ ℝ | x = α + 2k\pi \space ∪ x = \pi - α + 2k\pi; k ∈ ℤ \rbrace">
 > 
 
 ---
@@ -379,8 +379,8 @@ $S = \lbrace x ∈ ℝ | x = α + 2k\pi \space ∪ x = \pi - α + 2k\pi; k ∈ �
 
 ![fundamentais-equacao-cosseno-definicao.png](Equac%CC%A7o%CC%83es%20f45ed/fundamentais-equacao-cosseno-definicao.png)
 
-> $cos\space x = a$
-$S = \lbrace x ∈ ℝ | x = α + 2k\pi \space ∪ x = -α + 2k\pi \space; k ∈ ℤ \rbrace$
+> <img src="https://render.githubusercontent.com/render/math?math=cos\space x = a">
+<img src="https://render.githubusercontent.com/render/math?math=S = \lbrace x ∈ ℝ | x = α + 2k\pi \space ∪ x = -α + 2k\pi \space; k ∈ ℤ \rbrace">
 > 
 
 ---
@@ -397,8 +397,8 @@ $S = \lbrace x ∈ ℝ | x = α + 2k\pi \space ∪ x = -α + 2k\pi \space; k ∈
 
 ![fundamentais-equacao-tangente-definicao.png](Equac%CC%A7o%CC%83es%20f45ed/fundamentais-equacao-tangente-definicao.png)
 
-> $tg\space x = a$
-$S = \lbrace x ∈ ℝ | x = α + k\pi \space; k ∈ ℤ \rbrace$
+> <img src="https://render.githubusercontent.com/render/math?math=tg\space x = a">
+<img src="https://render.githubusercontent.com/render/math?math=S = \lbrace x ∈ ℝ | x = α + k\pi \space; k ∈ ℤ \rbrace">
 > 
 
 ---
@@ -493,7 +493,7 @@ $S = \lbrace x ∈ ℝ | x = α + k\pi \space; k ∈ ℤ \rbrace$
 
 ![teorema-da-decomposicao.png](Equac%CC%A7o%CC%83es%20f45ed/teorema-da-decomposicao.png)
 
-> $P(x) = a(x - x_1)(x - x_2)...(x - x_n)$
+> <img src="https://render.githubusercontent.com/render/math?math=P(x) = a(x - x_1)(x - x_2)...(x - x_n)">
 > 
 
 ![teorema-da-decomposicao-notas.png](Equac%CC%A7o%CC%83es%20f45ed/teorema-da-decomposicao-notas.png)
@@ -516,7 +516,7 @@ $S = \lbrace x ∈ ℝ | x = α + k\pi \space; k ∈ ℤ \rbrace$
 
 ![multiplicidade-de-uma-raiz2.png](Equac%CC%A7o%CC%83es%20f45ed/multiplicidade-de-uma-raiz2.png)
 
-> $P(x) = \underbrace{(x-r).(x-r).\space ... \space . (x -r)}_{m\space \text{vezes}}\space .\space q(x) ⇒ P(x) = (x - r)^m\space .\space q(x)$
+> <img src="https://render.githubusercontent.com/render/math?math=P(x) = \underbrace{(x-r).(x-r).\space ... \space . (x -r)}_{m\space \text{vezes}}\space .\space q(x) ⇒ P(x) = (x - r)^m\space .\space q(x)">
 > 
 
 ---
@@ -539,24 +539,24 @@ $S = \lbrace x ∈ ℝ | x = α + k\pi \space; k ∈ ℤ \rbrace$
 
 ![relacoes-de-girard-equacao-segundo-grau.png](Equac%CC%A7o%CC%83es%20f45ed/relacoes-de-girard-equacao-segundo-grau.png)
 
-> $x_1 + x_2 = \frac {-b} a$
-$x_1\space .\space x_2 = \frac {c} a$
+> <img src="https://render.githubusercontent.com/render/math?math=x_1 + x_2 = \frac {-b} a">
+<img src="https://render.githubusercontent.com/render/math?math=x_1\space .\space x_2 = \frac {c} a">
 > 
 
 ### Equação do 3° grau
 
 ![relacoes-de-girard-equacao-terceiro-grau.png](Equac%CC%A7o%CC%83es%20f45ed/relacoes-de-girard-equacao-terceiro-grau.png)
 
-> $x_1 + x_2 + x_3 = \frac {-b} a$
-$x_1\space .\space x_2\space .\space x_3 = \frac {-d} a$
+> <img src="https://render.githubusercontent.com/render/math?math=x_1 + x_2 + x_3 = \frac {-b} a">
+<img src="https://render.githubusercontent.com/render/math?math=x_1\space .\space x_2\space .\space x_3 = \frac {-d} a">
 > 
 
 ### Equação do 4° grau
 
 ![relacoes-de-girard-equacao-quarto-grau.png](Equac%CC%A7o%CC%83es%20f45ed/relacoes-de-girard-equacao-quarto-grau.png)
 
-> $x_1 + x_2 + x_3 + x_4 = \frac {-b} a$
-$x_1\space .\space x_2\space .\space x_3\space .\space x_4 = \frac {e} a$
+> <img src="https://render.githubusercontent.com/render/math?math=x_1 + x_2 + x_3 + x_4 = \frac {-b} a">
+<img src="https://render.githubusercontent.com/render/math?math=x_1\space .\space x_2\space .\space x_3\space .\space x_4 = \frac {e} a">
 > 
 
 ---

@@ -37,7 +37,7 @@
 THODI (Tetra, Hexa, Octa, Dode e Ico).**
 > 
 
-> $A = \frac {F\space .\space l_{polígono}} 2$
+> <img src="https://render.githubusercontent.com/render/math?math=A = \frac {F\space .\space l_{polígono}} 2">
 > 
 
 ---
@@ -52,7 +52,7 @@ THODI (Tetra, Hexa, Octa, Dode e Ico).**
 
 ![relacao-de-euler.png](Geometria%20%20b20f3/relacao-de-euler.png)
 
-> $V + F = A + 2$
+> <img src="https://render.githubusercontent.com/render/math?math=V + F = A + 2">
 > 
 
 > **Um macete para lembrar da relação de Euler é a frase:
@@ -71,7 +71,7 @@ THODI (Tetra, Hexa, Octa, Dode e Ico).**
 
 ![soma-dos-angulos-internos-das-faces.png](Geometria%20%20b20f3/soma-dos-angulos-internos-das-faces.png)
 
-> $S_i = 360°(V - 2)$
+> <img src="https://render.githubusercontent.com/render/math?math=S_i = 360°(V - 2)">
 > 
 
 ---
@@ -98,9 +98,9 @@ THODI (Tetra, Hexa, Octa, Dode e Ico).**
 
 ![regular-areas-e-volume.png](Geometria%20%20b20f3/regular-areas-e-volume.png)
 
-> $A_L = n\space .\space a_B\space .\space H$
-$A_T = A_L + 2.A_B$
-$V = A_B\space .\space H$
+> <img src="https://render.githubusercontent.com/render/math?math=A_L = n\space .\space a_B\space .\space H">
+<img src="https://render.githubusercontent.com/render/math?math=A_T = A_L + 2.A_B">
+<img src="https://render.githubusercontent.com/render/math?math=V = A_B\space .\space H">
 > 
 
 > **Essas fórmulas funcionam somente para prismas regulares. 
@@ -121,9 +121,9 @@ No caso de outros prismas, para calcular a área lateral, por exemplo, seria pos
 
 ![paralelepipedo-retangulo-definicao.png](Geometria%20%20b20f3/paralelepipedo-retangulo-definicao.png)
 
-> $D = \sqrt{a^2 + b^2 + c^2}$
-$A_T = 2ab + 2bc + 2ac$
-$V = a\space .\space b\space .\space c$
+> <img src="https://render.githubusercontent.com/render/math?math=D = \sqrt{a^2 + b^2 + c^2}">
+<img src="https://render.githubusercontent.com/render/math?math=A_T = 2ab + 2bc + 2ac">
+<img src="https://render.githubusercontent.com/render/math?math=V = a\space .\space b\space .\space c">
 > 
 
 ---
@@ -138,9 +138,9 @@ $V = a\space .\space b\space .\space c$
 
 ![cubo-definicao.png](Geometria%20%20b20f3/cubo-definicao.png)
 
-> $D = a\sqrt3$
-$A_T = 6a^2$
-$V = a^3$
+> <img src="https://render.githubusercontent.com/render/math?math=D = a\sqrt3">
+<img src="https://render.githubusercontent.com/render/math?math=A_T = 6a^2">
+<img src="https://render.githubusercontent.com/render/math?math=V = a^3">
 > 
 
 ---
@@ -159,23 +159,23 @@ $V = a^3$
 
 ![seccao-meridiana.png](Geometria%20%20b20f3/seccao-meridiana.png)
 
-> $A_{SM} = 2RH$
+> <img src="https://render.githubusercontent.com/render/math?math=A_{SM} = 2RH">
 > 
 
 ### Cilindro equilátero
 
 ![cilindro-equilatero.png](Geometria%20%20b20f3/cilindro-equilatero.png)
 
-> $H = 2R$
+> <img src="https://render.githubusercontent.com/render/math?math=H = 2R">
 > 
 
 ### Área lateral, área total e volume
 
 ![areas-e-volume.png](Geometria%20%20b20f3/areas-e-volume.png)
 
-> $A_L = 2\pi R H$
-$A_T = A_L + 2A_B$
-$V = \pi R^2H$
+> <img src="https://render.githubusercontent.com/render/math?math=A_L = 2\pi R H">
+<img src="https://render.githubusercontent.com/render/math?math=A_T = A_L + 2A_B">
+<img src="https://render.githubusercontent.com/render/math?math=V = \pi R^2H">
 > 
 
 ---
@@ -206,9 +206,9 @@ $V = \pi R^2H$
 
 ![areas-e-volume.png](Geometria%20%20b20f3/areas-e-volume%201.png)
 
-> $A_L = n. \frac{a_B.a_p} 2$
-$A_T = A_L + A_B$
-$V = \frac {A_B . H} 3$
+> <img src="https://render.githubusercontent.com/render/math?math=A_L = n. \frac{a_B.a_p} 2">
+<img src="https://render.githubusercontent.com/render/math?math=A_T = A_L + A_B">
+<img src="https://render.githubusercontent.com/render/math?math=V = \frac {A_B . H} 3">
 > 
 
 ---
@@ -229,23 +229,23 @@ $V = \frac {A_B . H} 3$
 
 ![seccao-meridiana.png](Geometria%20%20b20f3/seccao-meridiana%201.png)
 
-> $A_{SM} = RH$
+> <img src="https://render.githubusercontent.com/render/math?math=A_{SM} = RH">
 > 
 
 ### Cone equilátero
 
 ![cone-equilatero.png](Geometria%20%20b20f3/cone-equilatero.png)
 
-> $g = 2R$
+> <img src="https://render.githubusercontent.com/render/math?math=g = 2R">
 > 
 
 ### Área lateral, área total e volume
 
 ![areas-e-volume.png](Geometria%20%20b20f3/areas-e-volume%202.png)
 
-> $A_L = \pi Rg$
-$A_T = A_L + \pi R^2$
-$V = \frac{\pi R^2 H} 3$
+> <img src="https://render.githubusercontent.com/render/math?math=A_L = \pi Rg">
+<img src="https://render.githubusercontent.com/render/math?math=A_T = A_L + \pi R^2">
+<img src="https://render.githubusercontent.com/render/math?math=V = \frac{\pi R^2 H} 3">
 > 
 
 ---
@@ -268,7 +268,7 @@ $V = \frac{\pi R^2 H} 3$
 
 ![ex.png](Geometria%20%20b20f3/ex%201.png)
 
-> **Quando a razão de semelhança entre o volume de dois poliedros for igual à $V = 8v$, significa que o poliedro menor é formado por uma secção que corta exatamente na metade da altura. E isso só ocorre em poliedros convexos equiláteros.**
+> **Quando a razão de semelhança entre o volume de dois poliedros for igual à <img src="https://render.githubusercontent.com/render/math?math=V = 8v">, significa que o poliedro menor é formado por uma secção que corta exatamente na metade da altura. E isso só ocorre em poliedros convexos equiláteros.**
 > 
 
 ## Esferas
@@ -285,8 +285,8 @@ $V = \frac{\pi R^2 H} 3$
 
 ![area-volume.png](Geometria%20%20b20f3/area-volume.png)
 
-> $A = 4\pi R^2$
-$V = \frac 4 3 \pi R^3$
+> <img src="https://render.githubusercontent.com/render/math?math=A = 4\pi R^2">
+<img src="https://render.githubusercontent.com/render/math?math=V = \frac 4 3 \pi R^3">
 > 
 
 ---
@@ -301,7 +301,7 @@ $V = \frac 4 3 \pi R^3$
 
 ![secao-esferica.png](Geometria%20%20b20f3/secao-esferica.png)
 
-> $R^2 = d^2 + r^2$
+> <img src="https://render.githubusercontent.com/render/math?math=R^2 = d^2 + r^2">
 > 
 
 ---
@@ -314,7 +314,7 @@ $V = \frac 4 3 \pi R^3$
 
 ![fuso-esferico.png](Geometria%20%20b20f3/fuso-esferico.png)
 
-> $A_F = \frac {\pi R^2 \alpha} {90°}$
+> <img src="https://render.githubusercontent.com/render/math?math=A_F = \frac {\pi R^2 \alpha} {90°}">
 > 
 
 ---
@@ -327,7 +327,7 @@ $V = \frac 4 3 \pi R^3$
 
 ![cunha-esferica.png](Geometria%20%20b20f3/cunha-esferica.png)
 
-> $V_C = \frac {\pi R^3 \alpha} {270°}$
+> <img src="https://render.githubusercontent.com/render/math?math=V_C = \frac {\pi R^3 \alpha} {270°}">
 > 
 
 ---
